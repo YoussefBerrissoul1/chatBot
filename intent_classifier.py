@@ -5,7 +5,9 @@ from sklearn.pipeline import make_pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from utils import charger_donnees_json
 import os
-
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 model_output = "model/intent_classifier.pkl"
 
 def preparer_data_par_theme(chemin):

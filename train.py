@@ -9,6 +9,9 @@ data_path = "data/Nestle-HR-FAQ.json"
 model_path = "model/sentence_bert_model.pkl"
 index_path = "model/response_index.pkl"
 faiss_index_path = "model/faiss.index"
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 def entrainer_modele():
     print("🔄 Entraînement du chatbot RH...")

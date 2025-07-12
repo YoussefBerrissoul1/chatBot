@@ -53,7 +53,9 @@ import nltk
 import nlpaug.augmenter.word as naw
 from typing import Dict, List, Optional
 from utils import charger_donnees_json
-
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 def telecharger_ressources_nltk():
     """

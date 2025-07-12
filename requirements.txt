@@ -2,3 +2,6 @@ sentence-transformers
 scikit-learn
 joblib
 faiss-cpu
+# textblob
+# textblob.download_corpora
+# pour la corection 
