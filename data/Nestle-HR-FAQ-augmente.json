@@ -1,0 +1,4020 @@
+{
+  "faq": {
+    "recrutement_et_candidature": [
+      {
+        "question": "Comment postuler pour un emploi chez Nestlé ?",
+        "response": "Vous pouvez postuler en ligne via notre site carrières. Créez un compte, téléchargez votre CV et remplissez le formulaire de candidature pour le poste souhaité."
+      },
+      {
+        "question": "Quel est le processus de recrutement chez Nestlé ?",
+        "response": "Le processus comprend une revue des candidatures, des entretiens téléphoniques ou vidéo, et des entretiens en personne. Des évaluations ou échantillons de travail peuvent être requis selon le poste."
+      },
+      {
+        "question": "Combien de temps faut-il pour recevoir une réponse après avoir postulé ?",
+        "response": "Le délai varie selon le poste, mais vous devriez recevoir une réponse sous deux à quatre semaines. Consultez l'état de votre candidature sur notre site carrières."
+      },
+      {
+        "question": "Puis-je postuler à plusieurs postes à la fois ?",
+        "response": "Oui, vous pouvez postuler à plusieurs postes correspondant à vos compétences. Chaque candidature est évaluée séparément."
+      },
+      {
+        "question": "Comment suivre l'état de ma candidature ?",
+        "response": "Connectez-vous à votre compte sur le site carrières pour vérifier les mises à jour sur votre candidature."
+      },
+      {
+        "question": "Quels sont les critères de sélection pour les postes ?",
+        "response": "Les critères incluent les qualifications, l'expérience, les compétences, et l'adéquation avec les valeurs de Nestlé."
+      },
+      {
+        "question": "Nestlé propose-t-elle des stages ou alternances ?",
+        "response": "Oui, ces opportunités sont disponibles sur notre site carrières et ouvertes aux candidatures en ligne."
+      },
+      {
+        "question": "Comment se préparer à un entretien chez Nestlé ?",
+        "response": "Familiarisez-vous avec Nestlé, ses produits et valeurs, et préparez des exemples concrets de vos compétences et motivations."
+      },
+      {
+        "question": "Nestlé recrute-t-elle à l'international ?",
+        "response": "Oui, des postes internationaux sont proposés sur notre site carrières global."
+      },
+      {
+        "question": "Puis-je postuler sans parler la langue du pays du poste ?",
+        "response": "Cela dépend du poste. Les exigences linguistiques sont indiquées dans l'annonce."
+      },
+      {
+        "question": "Quels documents sont requis pour postuler ?",
+        "response": "CV, lettre de motivation, et selon le poste : diplômes, certifications ou portfolio."
+      },
+      {
+        "question": "Existe-t-il une limite d'âge pour postuler ?",
+        "response": "Non, Nestlé pratique une politique de recrutement non-discriminatoire conforme aux lois locales."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle la confidentialité des candidatures ?",
+        "response": "Toutes les informations candidates sont traitées conformément au RGPD et notre politique de confidentialité."
+      },
+      {
+        "question": "Les candidats handicapés bénéficient-ils d'aménagements ?",
+        "response": "Oui, nous proposons des adaptations du processus de recrutement sur demande."
+      },
+      {
+        "question": "Dois-je joindre des références à ma candidature ?",
+        "response": "C'est optionnel mais recommandé pour les postes nécessitant une vérification d'expérience."
+      },
+      {
+        "question": "Quelle est la politique de recrutement des diplômés ?",
+        "response": "Des programmes spécifiques existent pour les jeunes diplômés, détaillés sur notre site carrières."
+      },
+      {
+        "question": "Puis-je modifier ma candidature après soumission ?",
+        "response": "Oui, avant la date limite de dépôt via votre compte carrières."
+      },
+      {
+        "question": "Comment sont sélectionnés les candidats pour l'entretien ?",
+        "response": "Sur la base de l'adéquation avec les critères du poste et le potentiel d'intégration culturelle."
+      },
+      {
+        "question": "Les tests psychométriques sont-ils utilisés ?",
+        "response": "Pour certains rôles, notamment managériaux, des évaluations complémentaires peuvent être demandées."
+      },
+      {
+        "question": "Quelle est la durée moyenne du processus de recrutement ?",
+        "response": "Entre 4 et 8 semaines selon la complexité du poste et la disponibilité des interlocuteurs."
+      },
+      {
+        "question": "Puis-je postuler via LinkedIn ?",
+        "response": "Oui, certaines offres permettent une candidature simplifiée via LinkedIn."
+      },
+      {
+        "question": "Comment Nestlé garantit-elle l'équité du recrutement ?",
+        "response": "Grâce à des grilles d'évaluation standardisées et des formations contre les biais inconscients."
+      },
+      {
+        "question": "Les candidatures spontanées sont-elles acceptées ?",
+        "response": "Oui, via une section dédiée sur notre site carrières."
+      },
+      {
+        "question": "Quelle est la politique de relance après entretien ?",
+        "response": "Un délai de 10 jours ouvrables est respecté avant toute relance de votre part."
+      },
+      {
+        "question": "Existe-t-il des programmes de parrainage employé ?",
+        "response": "Oui, certains postes peuvent être pourvus via recommandation interne avec bonus pour l'employé."
+      },
+      {
+        "question": "Les frais de déplacement aux entretiens sont-ils remboursés ?",
+        "response": "Pour les entretiens finals, selon la distance et après accord préalable."
+      },
+      {
+        "question": "Comment Nestlé intègre-t-elle la diversité dans son recrutement ?",
+        "response": "Via des partenariats avec des associations et des processus inclusifs."
+      },
+      {
+        "question": "Les anciens employés peuvent-ils postuler ?",
+        "response": "Oui, ils sont les bienvenus et bénéficient d'un processus accéléré."
+      },
+      {
+        "question": "Quelle est la politique concernant les écarts de salaire demandés ?",
+        "response": "Nous nous alignons sur les grilles salariales du poste et du marché."
+      },
+      {
+        "question": "Puis-je demander un feedback si ma candidature est rejetée ?",
+        "response": "Oui, sur demande via votre compte carrières sous 15 jours après la décision."
+      },
+      {
+        "question": "Comment postuler pour un poste en usine ?",
+        "response": "Via les offres spécifiques 'Production' sur notre site carrières."
+      },
+      {
+        "question": "Les tests techniques sont-ils payés ?",
+        "response": "Oui, pour les évaluations dépassant 2 heures, une compensation est prévue."
+      },
+      {
+        "question": "Quelle est la politique de recrutement des travailleurs saisonniers ?",
+        "response": "Des campagnes spécifiques sont lancées périodiquement, notamment en période de forte production."
+      },
+      {
+        "question": "Comment se déroule l'onboarding après recrutement ?",
+        "response": "Un programme structuré sur 3 mois incluant intégration, formations et mentorat."
+      },
+      {
+        "question": "Les candidats internes ont-ils la priorité ?",
+        "response": "Toutes les candidatures sont étudiées équitablement, mais la mobilité interne est encouragée."
+      },
+      {
+        "question": "Quels sont les secteurs qui recrutent le plus chez Nestlé ?",
+        "response": "R&D, Marketing, Supply Chain et Production sont régulièrement pourvoyeurs d'emplois."
+      },
+      {
+        "question": "Comment postuler pour un poste à responsabilité RSE ?",
+        "response": "Via les offres 'Sustainability' sur notre portail carrières global."
+      },
+      {
+        "question": "Existe-t-il des programmes de recrutement sans diplôme ?",
+        "response": "Oui, notamment pour les postes en production avec formation interne."
+      },
+      {
+        "question": "La vérification des antécédents est-elle systématique ?",
+        "response": "Pour tous les postes permanents, conformément à la réglementation locale."
+      },
+      {
+        "question": "Comment Nestlé recrute-t-elle ses dirigeants ?",
+        "response": "Via un processus spécifique incluant comité de direction et évaluations externes."
+      },
+      {
+        "question": "Puis-je reporter une date d'entretien ?",
+        "response": "Oui, en contactant le recruteur via le système de messagerie du portail."
+      },
+      {
+        "question": "Quelle est la politique concernant les périodes d'essai ?",
+        "response": "De 3 à 6 mois selon le poste, avec évaluations régulières."
+      },
+      {
+        "question": "Les candidats étrangers peuvent-ils postuler en France ?",
+        "response": "Oui, sous réserve d'obtention préalable d'un titre de séjour valide."
+      },
+      {
+        "question": "Comment postuler pour un VIE chez Nestlé ?",
+        "response": "Via les offres spécifiques 'Volontariat International' sur notre site carrières."
+      },
+      {
+        "question": "Quels sont les avantages proposés aux nouveaux employés ?",
+        "response": "Pack d'intégration, parrainage, et accès immédiat aux avantages sociaux."
+      },
+      {
+        "question": "Comment se préparer à un assessment center ?",
+        "response": "Des conseils sont envoyés avec la convocation, incluant études de cas et exercices de groupe."
+      },
+      {
+        "question": "La négociation salariale est-elle possible ?",
+        "response": "Dans le cadre des grilles établies pour le poste, avec une certaine flexibilité selon l'expérience."
+      },
+      {
+        "question": "Les contrats d'apprentissage incluent-ils une embauche ?",
+        "response": "70% des alternants sont embauchés en CDI à l'issue de leur formation."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle les recrutements de masse ?",
+        "response": "Via des journées portes ouvertes et processus collectifs standardisés."
+      },
+      {
+        "question": "Quelle est la politique de télétravail pour les nouveaux ?",
+        "response": "Après 3 mois en présentiel, possibilité d'hybride selon le poste."
+      },
+      {
+        "question": "Les candidats doivent-ils fournir un casier judiciaire ?",
+        "response": "Pour certains postes réglementés (finances, sécurité), conformément à la loi."
+      },
+      {
+        "question": "Comment postuler pour un poste en télétravail complet ?",
+        "response": "Via les offres spécifiant 'Remote' dans le titre ou la description."
+      },
+      {
+        "question": "Quelle est la durée maximale entre deux entretiens ?",
+        "response": "Généralement 10 jours ouvrables pour maintenir une dynamique de recrutement."
+      },
+      {
+        "question": "Les tests de langues sont-ils obligatoires ?",
+        "response": "Pour les postes nécessitant des compétences linguistiques certifiées."
+      },
+      {
+        "question": "Comment Nestlé recrute-t-elle ses stagiaires ?",
+        "response": "Via des partenariats écoles, salons de recrutement et notre portail carrières."
+      },
+      {
+        "question": "Puis-je être recruté sans expérience préalable ?",
+        "response": "Oui, pour certains postes juniors avec programme de formation adapté."
+      },
+      {
+        "question": "Quelle est la politique de recrutement en période d'essai ?",
+        "response": "Possible mais nécessite validation hiérarchique et RH spécifique."
+      },
+      {
+        "question": "Comment se déroule l'entretien final ?",
+        "response": "Avec le futur N+1 et un représentant RH, centré sur l'intégration d'équipe."
+      },
+      {
+        "question": "Les évaluations techniques sont-elles notées ?",
+        "response": "Oui, avec une grille transparente partagée au candidat sur demande."
+      },
+      {
+        "question": "Quelle est la proportion candidats/postes ouverts ?",
+        "response": "Variable selon les métiers, en moyenne 50 candidatures par poste publié."
+      },
+      {
+        "question": "Comment postuler pour un poste dans la recherche ?",
+        "response": "Via notre portail dédié 'Nestlé Research Careers'."
+      },
+      {
+        "question": "Existe-t-il des quotas de diversité ?",
+        "response": "Des objectifs volontaristes, mais pas de quotas imposés."
+      },
+      {
+        "question": "La présence physique est-elle obligatoire pour tous les entretiens ?",
+        "response": "Non, les entretiens initiaux se font généralement à distance."
+      },
+      {
+        "question": "Comment sont sélectionnés les candidats pour les stages ?",
+        "response": "Sur la base de la motivation, du parcours académique et de l'adéquation avec nos métiers."
+      },
+      {
+        "question": "Les freelances peuvent-ils postuler pour des CDI ?",
+        "response": "Oui, avec valorisation de leur expérience indépendante."
+      },
+      {
+        "question": "Quelle est la politique de recrutement post-Covid ?",
+        "response": "Processus 100% digitalisés avec possibilité d'onboarding à distance."
+      },
+      {
+        "question": "Comment Nestlé attire-t-elle les talents rares ?",
+        "response": "Par des packages sur-mesure et missions internationales."
+      },
+      {
+        "question": "Puis-je postuler avec un CV dans une autre langue ?",
+        "response": "Le français ou l'anglais sont requis selon le pays du poste."
+      },
+      {
+        "question": "Quels sont les délais pour signer un contrat après offre ?",
+        "response": "Généralement 5 jours ouvrables pour permettre la réflexion du candidat."
+      },
+      {
+        "question": "Comment sont gérées les ruptures de période d'essai ?",
+        "response": "Avec entretien de feedback et possibilité de réintégration ultérieure."
+      },
+      {
+        "question": "Les tests médicaux sont-ils obligatoires ?",
+        "response": "Pour les postes en production ou nécessitant une aptitude physique spécifique."
+      },
+      {
+        "question": "Comment postuler pour un poste dans une filiale à l'étranger ?",
+        "response": "Via notre portail carrières global avec filtre par pays."
+      },
+      {
+        "question": "Quelle est la politique concernant les écarts de rémunération hommes-femmes ?",
+        "response": "Strict alignement sur notre politique d'équité salariale certifiée."
+      },
+      {
+        "question": "Les candidats peuvent-ils choisir leur recruteur ?",
+        "response": "Non, l'assignation se fait selon la spécialité métier et disponibilité."
+      },
+      {
+        "question": "Comment sont gérés les conflits d'intérêts familiaux ?",
+        "response": "Déclaration obligatoire et non-supervision hiérarchique directe."
+      },
+      {
+        "question": "Quels sont les métiers en tension chez Nestlé ?",
+        "response": "Data scientists, ingénieurs procédés et experts en durabilité."
+      },
+      {
+        "question": "Puis-je être recruté après un stage non concluant ?",
+        "response": "Oui, après un délai de 12 mois et sur un poste différent."
+      },
+      {
+        "question": "Comment Nestlé recrute-t-elle ses directeurs marketing ?",
+        "response": "Processus en 5 étapes incluant étude de cas business et présentation au comité."
+      },
+      {
+        "question": "Les périodes de chômage sont-elles un frein ?",
+        "response": "Non, nous évaluons les compétences et non les interruptions de carrière."
+      },
+      {
+        "question": "Quelle est la durée des contrats pour les projets spécifiques ?",
+        "response": "De 6 à 18 mois selon la complexité du projet."
+      },
+      {
+        "question": "Comment postuler pour un poste en télétravail à l'étranger ?",
+        "response": "Via les offres 'International Remote' avec spécification des fuseaux horaires acceptés."
+      },
+      {
+        "question": "Les soft skills sont-elles évaluées ?",
+        "response": "Oui, via des mises en situation et questions comportementales."
+      },
+      {
+        "question": "Quelle est la politique de recrutement des seniors ?",
+        "response": "Active avec valorisation de l'expérience via notre programme 'Nestlé Experience'."
+      },
+      {
+        "question": "Comment sont formés les recruteurs chez Nestlé ?",
+        "response": "Formation annuelle sur les biais inconscients et techniques d'entretien modernes."
+      },
+      {
+        "question": "Puis-je postuler via une agence d'intérim ?",
+        "response": "Oui, pour les contrats temporaires gérés par nos partenaires agréés."
+      },
+      {
+        "question": "Quels sont les délais pour un recrutement urgent ?",
+        "response": "Processus accéléré en 10 jours maximum pour les postes critiques."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle le recrutement des anciens militaires ?",
+        "response": "Via notre programme spécifique de valorisation des compétences acquises."
+      },
+      {
+        "question": "Les tests de produits sont-ils demandés en entretien ?",
+        "response": "Pour certains postes en R&D, dans le cadre d'évaluations techniques."
+      },
+      {
+        "question": "Quelle est la politique de recrutement en cas de fusion ?",
+        "response": "Priorité aux employés des entités fusionnées via plans de reclassement."
+      },
+      {
+        "question": "Comment postuler pour un poste en cybersécurité ?",
+        "response": "Via les offres 'IT Security' sur notre portail carrières."
+      },
+      {
+        "question": "Les contrats aidés sont-ils proposés ?",
+        "response": "Oui, selon les dispositifs légaux en vigueur dans chaque pays."
+      },
+      {
+        "question": "Quelle est la politique de recrutement des réfugiés ?",
+        "response": "Active avec partenariats spécialisés et accompagnement administratif."
+      },
+      {
+        "question": "Comment sont vérifiées les expériences à l'étranger ?",
+        "response": "Via notre service de vérification international certifié."
+      },
+      {
+        "question": "Puis-je être recruté en CDI directement ?",
+        "response": "Oui, c'est la norme pour la majorité de nos postes permanents."
+      },
+      {
+        "question": "Quels sont les avantages pour les candidats internationaux ?",
+        "response": "Aide à la relocation et accompagnement administratif pour les visas."
+      },
+      {
+        "question": "Comment Nestlé réduit-elle son empreinte carbone dans le recrutement ?",
+        "response": "Processus 100% digitaux et suppression des déplacements inutiles."
+      },
+      {
+        "question": "Les formations en ligne sont-elles considérées comme diplômes ?",
+        "response": "Oui, si certifiées par des organismes reconnus et pertinentes pour le poste."
+      },
+      {
+        "question": "Quelle est la politique concernant les tatouages visibles ?",
+        "response": "Aucune restriction si non contraires à nos valeurs d'inclusion."
+      },
+      {
+        "question": "Comment postuler pour un poste en logistique ?",
+        "response": "Via les offres 'Supply Chain' sur notre site carrières."
+      },
+      {
+        "question": "Les candidats doivent-ils fournir leurs prétentions salariales ?",
+        "response": "C'est optionnel mais recommandé pour aligner les attentes."
+      },
+      {
+        "question": "Quel est le taux de rétention des nouveaux employés ?",
+        "response": "91% après la première année grâce à notre programme d'intégration renforcé."
+      },
+      {
+        "question": "Comment Nestlé recrute-t-elle dans les zones rurales ?",
+        "response": "Via des partenariats locaux et navettes de transport dédiées."
+      },
+      {
+        "question": "Puis-je postuler si j'ai déjà été refusé ?",
+        "response": "Oui, après 6 mois pour le même poste ou immédiatement pour un poste différent."
+      },
+      {
+        "question": "Quels sont les outils digitaux utilisés pendant le recrutement ?",
+        "response": "Plateforme IA de matching, entretiens vidéo asynchrones et outils de collaboration."
+      },
+      {
+        "question": "Comment sont gérées les candidatures de personnes en reconversion ?",
+        "response": "Via un parcours spécifique avec évaluation des compétences transférables."
+      }
+    ],
+    "contrat_de_travail": [
+      {
+        "question": "Quels types de contrats Nestlé propose-t-elle ?",
+        "response": "Nestlé offre des CDI, CDD, stages et alternances, selon les besoins et le poste."
+      },
+      {
+        "question": "Quelle est la durée de la période d’essai ?",
+        "response": "Elle varie de trois à six mois pour un CDI, et est proportionnelle à la durée pour un CDD, selon la loi locale."
+      },
+      {
+        "question": "Quelle est la durée typique d’un CDD ?",
+        "response": "Elle va de quelques mois à un an, selon le projet ou le poste."
+      },
+      {
+        "question": "Les CDD peuvent-ils être renouvelés ?",
+        "response": "Oui, dans les limites légales et selon les besoins de l’entreprise."
+      },
+      {
+        "question": "Que se passe-t-il à la fin d’un CDD ?",
+        "response": "Le contrat s’arrête sans préavis, mais un renouvellement ou CDI peut être proposé selon les opportunités."
+      },
+      {
+        "question": "Comment convertir un CDD en CDI ?",
+        "response": "Cela dépend des besoins de l’entreprise et de vos performances. Une offre peut être faite avant la fin du CDD."
+      },
+      {
+        "question": "Quelles sont les obligations de Nestlé envers les employés en CDD ?",
+        "response": "Nestlé garantit salaires, avantages proportionnels et conditions équitables, conformément à la loi."
+      },
+      {
+        "question": "Les stagiaires sont-ils rémunérés ?",
+        "response": "Oui, selon les normes locales et les termes de la convention de stage."
+      },
+      {
+        "question": "Quelle est la politique pour les contrats à temps partiel ?",
+        "response": "Des contrats à temps partiel sont proposés avec des droits proportionnels, selon les besoins opérationnels."
+      },
+      {
+        "question": "Comment modifier mon contrat de travail ?",
+        "response": "Discutez-en avec votre manager et soumettez une demande via le portail RH."
+      },
+      {
+        "question": "Quels documents sont nécessaires pour signer un contrat ?",
+        "response": "Une pièce d’identité, un CV, et des documents spécifiques selon le poste."
+      },
+      {
+        "question": "Nestlé propose-t-elle des contrats saisonniers ?",
+        "response": "Oui, pour certains postes, selon les besoins saisonniers."
+      },
+      {
+        "question": "Comment sont définies les clauses du contrat ?",
+        "response": "Elles sont établies selon la législation locale et les politiques de Nestlé."
+      },
+      {
+        "question": "Puis-je négocier les termes de mon contrat ?",
+        "response": "Certaines clauses peuvent être discutées avant la signature, selon le poste."
+      },
+      {
+        "question": "Quels sont les avantages inclus dans un CDI ?",
+        "response": "Salaire, avantages sociaux, congés payés et sécurité d’emploi."
+      },
+      {
+        "question": "Les contrats à temps partiel ont-ils des avantages ?",
+        "response": "Oui, proportionnels à la durée du travail, selon la loi."
+      },
+      {
+        "question": "Comment est calculée la rémunération des stagiaires ?",
+        "response": "Basée sur les normes locales et le niveau d’études."
+      },
+      {
+        "question": "Les alternants ont-ils les mêmes droits que les CDI ?",
+        "response": "Ils bénéficient de droits similaires, adaptés à leur statut."
+      },
+      {
+        "question": "Quels sont les motifs d’un CDD ?",
+        "response": "Remplacement, projet spécifique ou accroissement temporaire d’activité."
+      },
+      {
+        "question": "Puis-je refuser un renouvellement de CDD ?",
+        "response": "Oui, mais cela mettra fin au contrat à la date prévue."
+      },
+      {
+        "question": "Quelles sont les conditions de rupture d’un CDI ?",
+        "response": "Préavis et motifs valables, selon la législation locale."
+      },
+      {
+        "question": "Comment est gérée la période d’essai pour un temps partiel ?",
+        "response": "Proportionnelle à la durée du travail, selon la loi."
+      },
+      {
+        "question": "Nestlé propose-t-elle des contrats à durée déterminée renouvelables ?",
+        "response": "Oui, dans la limite des réglementations locales."
+      },
+      {
+        "question": "Quels sont les droits des stagiaires chez Nestlé ?",
+        "response": "Rémunération, formation et encadrement, selon la convention."
+      },
+      {
+        "question": "Comment est déterminée la durée d’un stage ?",
+        "response": "Selon les besoins du poste et la convention de stage."
+      },
+      {
+        "question": "Puis-je passer d’un temps partiel à un temps plein ?",
+        "response": "Oui, avec l’accord de votre manager et des RH."
+      },
+      {
+        "question": "Quelles sont les obligations des alternants ?",
+        "response": "Respecter le contrat, suivre la formation et accomplir les tâches."
+      },
+      {
+        "question": "Comment sont gérés les congés dans un CDD ?",
+        "response": "Proportionnels à la durée du contrat, selon la loi."
+      },
+      {
+        "question": "Nestlé propose-t-elle des contrats à distance ?",
+        "response": "Oui, pour certains postes, avec des conditions spécifiques."
+      },
+      {
+        "question": "Quelles sont les clauses de confidentialité dans un contrat ?",
+        "response": "Protection des informations sensibles de l’entreprise."
+      },
+      {
+        "question": "Comment est gérée la fin d’une période d’essai ?",
+        "response": "Confirmation ou rupture, avec notification écrite."
+      },
+      {
+        "question": "Les contrats incluent-ils des clauses de non-concurrence ?",
+        "response": "Pour certains postes, selon la législation locale."
+      },
+      {
+        "question": "Puis-je demander une copie de mon contrat ?",
+        "response": "Oui, via le portail RH ou auprès de votre manager."
+      },
+      {
+        "question": "Comment sont fixées les heures de travail dans un contrat ?",
+        "response": "Selon le poste et la législation locale."
+      },
+      {
+        "question": "Quelles sont les conditions pour un contrat international ?",
+        "response": "Exigences spécifiques, incluant visas et compétences linguistiques."
+      },
+      {
+        "question": "Nestlé propose-t-elle des contrats pour freelances ?",
+        "response": "Rarement, mais possible pour des projets spécifiques."
+      },
+      {
+        "question": "Quels sont les droits à la formation pour un CDD ?",
+        "response": "Accès limité, selon la durée et le poste."
+      },
+      {
+        "question": "Comment est gérée la rupture anticipée d’un CDD ?",
+        "response": "Possible uniquement avec accord mutuel ou motif légal."
+      },
+      {
+        "question": "Quels avantages pour les alternants ?",
+        "response": "Rémunération, formation et accompagnement professionnel."
+      },
+      {
+        "question": "Puis-je modifier mes horaires dans un contrat ?",
+        "response": "Avec l’accord de votre manager, selon les besoins."
+      },
+      {
+        "question": "Comment sont gérés les contrats à l’étranger ?",
+        "response": "Via le portail de mobilité internationale."
+      },
+      {
+        "question": "Quelles sont les obligations légales de Nestlé pour les contrats ?",
+        "response": "Respect des lois locales et des droits des employés."
+      },
+      {
+        "question": "Les stagiaires ont-ils droit à des congés ?",
+        "response": "Oui, selon les termes de la convention de stage."
+      },
+      {
+        "question": "Comment est déterminée la rémunération d’un CDI ?",
+        "response": "Selon le poste, l’expérience et le marché local."
+      },
+      {
+        "question": "Puis-je demander un avenant à mon contrat ?",
+        "response": "Oui, via une demande formelle aux RH."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures supplémentaires ?",
+        "response": "Payées ou compensées, selon la législation."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les apprenants ?",
+        "response": "Selon les conventions d’apprentissage locales."
+      },
+      {
+        "question": "Quels sont les avantages d’un contrat à temps partiel ?",
+        "response": "Flexibilité et droits proportionnels."
+      },
+      {
+        "question": "Puis-je refuser un changement de contrat ?",
+        "response": "Oui, mais cela peut affecter votre poste."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle les contrats temporaires ?",
+        "response": "Conformément aux lois locales et besoins opérationnels."
+      },
+      {
+        "question": "Quelles sont les obligations des employés en CDI ?",
+        "response": "Respecter le contrat et les politiques internes."
+      },
+      {
+        "question": "Comment est gérée la transition entre contrats ?",
+        "response": "Via des discussions avec les RH et votre manager."
+      },
+      {
+        "question": "Puis-je demander une réduction d’heures ?",
+        "response": "Oui, avec approbation, selon les besoins."
+      },
+      {
+        "question": "Quels sont les droits des employés en période d’essai ?",
+        "response": "Mêmes droits, sauf préavis réduit en cas de rupture."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les seniors ?",
+        "response": "Adaptés à leurs besoins, avec flexibilité."
+      },
+      {
+        "question": "Quelles sont les conditions pour un stage prolongé ?",
+        "response": "Approbation des RH et accord de l’établissement."
+      },
+      {
+        "question": "Puis-je demander un contrat à durée indéterminée ?",
+        "response": "Oui, selon les opportunités et performances."
+      },
+      {
+        "question": "Comment sont gérés les congés dans un stage ?",
+        "response": "Selon la convention et la législation locale."
+      },
+      {
+        "question": "Quels sont les critères pour un CDI ?",
+        "response": "Performance, besoins de l’entreprise et compétences."
+      },
+      {
+        "question": "Nestlé propose-t-elle des contrats pour étudiants ?",
+        "response": "Oui, via des stages et alternances."
+      },
+      {
+        "question": "Comment sont gérés les contrats à durée déterminée à l’étranger ?",
+        "response": "Avec des conditions spécifiques au pays."
+      },
+      {
+        "question": "Quelles sont les obligations des stagiaires ?",
+        "response": "Respecter la convention et accomplir les tâches."
+      },
+      {
+        "question": "Puis-je demander une pause dans mon contrat ?",
+        "response": "Possible via un congé sans solde, avec approbation."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les intérimaires ?",
+        "response": "Via des agences, selon les besoins temporaires."
+      },
+      {
+        "question": "Quels sont les droits à la mutuelle pour un CDD ?",
+        "response": "Accès proportionnel, selon la durée."
+      },
+      {
+        "question": "Comment est gérée la fin d’un stage ?",
+        "response": "Évaluation finale et certificat de stage."
+      },
+      {
+        "question": "Puis-je demander un changement de statut de contrat ?",
+        "response": "Oui, avec l’accord des RH."
+      },
+      {
+        "question": "Quelles sont les règles pour les contrats à temps plein ?",
+        "response": "Horaires fixes et avantages complets."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les consultants ?",
+        "response": "Via des contrats spécifiques, selon le projet."
+      },
+      {
+        "question": "Quels sont les droits des alternants aux avantages sociaux ?",
+        "response": "Accès à certains avantages, selon le contrat."
+      },
+      {
+        "question": "Puis-je demander une révision salariale dans un CDD ?",
+        "response": "Rare, mais possible pour des projets prolongés."
+      },
+      {
+        "question": "Comment sont gérés les contrats à durée variable ?",
+        "response": "Selon les besoins opérationnels et la loi."
+      },
+      {
+        "question": "Quels sont les droits à la formation pour un stage ?",
+        "response": "Accès à des formations liées au stage."
+      },
+      {
+        "question": "Puis-je demander un congé pendant un CDD ?",
+        "response": "Oui, proportionnel à la durée du contrat."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les jeunes diplômés ?",
+        "response": "Via des programmes spécifiques, comme les graduate programs."
+      },
+      {
+        "question": "Quelles sont les obligations des employés à temps partiel ?",
+        "response": "Respecter les horaires et les tâches assignées."
+      },
+      {
+        "question": "Puis-je demander une extension de période d’essai ?",
+        "response": "Rare, mais possible avec accord mutuel."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les expatriés ?",
+        "response": "Avec des conditions spécifiques, incluant le logement."
+      },
+      {
+        "question": "Quels sont les droits des stagiaires à la mutuelle ?",
+        "response": "Accès limité, selon les politiques locales."
+      },
+      {
+        "question": "Puis-je demander un changement de département avec un CDD ?",
+        "response": "Possible, mais soumis à approbation."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les projets spécifiques ?",
+        "response": "Via des CDD ou des contrats de mission."
+      },
+      {
+        "question": "Quels sont les droits des employés en contrat temporaire ?",
+        "response": "Droits proportionnels, selon la durée."
+      },
+      {
+        "question": "Puis-je demander un congé sabbatique en CDI ?",
+        "response": "Oui, avec approbation et selon les besoins."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les remplacements ?",
+        "response": "Via des CDD ou contrats intérimaires."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés en CDI ?",
+        "response": "Stabilité, avantages sociaux complets et formation."
+      },
+      {
+        "question": "Puis-je demander une réduction de la période d’essai ?",
+        "response": "Non, sauf accord exceptionnel."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les postes à haute responsabilité ?",
+        "response": "Avec des clauses spécifiques, comme la non-concurrence."
+      },
+      {
+        "question": "Quels sont les droits des alternants aux congés ?",
+        "response": "Congés proportionnels, selon la convention."
+      },
+      {
+        "question": "Puis-je demander un changement de lieu de travail ?",
+        "response": "Oui, avec l’accord des RH et du manager."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les postes à l’international ?",
+        "response": "Via le programme de mobilité internationale."
+      },
+      {
+        "question": "Quels sont les droits des employés en période de transition ?",
+        "response": "Maintien des droits, selon le contrat."
+      },
+      {
+        "question": "Puis-je demander une modification de salaire dans un CDI ?",
+        "response": "Oui, lors des évaluations annuelles."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les travailleurs indépendants ?",
+        "response": "Via des contrats de prestation, selon le projet."
+      },
+      {
+        "question": "Quels sont les droits des stagiaires à la formation continue ?",
+        "response": "Accès à des formations liées au stage."
+      },
+      {
+        "question": "Puis-je demander un congé parental en CDD ?",
+        "response": "Oui, selon la législation locale."
+      },
+      {
+        "question": "Comment sont gérés les contrats pour les postes temporaires ?",
+        "response": "Via des CDD ou contrats intérimaires."
+      }
+    ],
+    "conges_et_absences": [
+      {
+        "question": "Combien de jours de congé annuel ai-je droit ?",
+        "response": "Cela dépend de votre contrat et de la législation locale, mais généralement au moins 25 jours par an."
+      },
+      {
+        "question": "Comment demander des congés ?",
+        "response": "Utilisez le système en ligne de gestion des absences, avec l’approbation de votre manager."
+      },
+      {
+        "question": "Quelle est la politique des RTT ?",
+        "response": "Les RTT dépendent des accords locaux et de votre temps de travail."
+      },
+      {
+        "question": "Comment fonctionne le congé maternité ?",
+        "response": "Il suit la législation locale, avec des congés supplémentaires possibles selon les politiques internes."
+      },
+      {
+        "question": "Quelle est la politique du congé paternité ?",
+        "response": "Alignée sur la loi locale, avec des options supplémentaires détaillées dans le guide des avantages."
+      },
+      {
+        "question": "Puis-je prendre un congé sans solde ?",
+        "response": "Oui, avec l’accord de votre manager et selon les besoins opérationnels."
+      },
+      {
+        "question": "Comment signaler une absence pour maladie ?",
+        "response": "Informez votre manager dès que possible et suivez les procédures locales. Un certificat peut être requis."
+      },
+      {
+        "question": "Les jours de maladie sont-ils payés ?",
+        "response": "Oui, selon la législation et votre ancienneté."
+      },
+      {
+        "question": "Puis-je reporter mes congés ?",
+        "response": "Cela dépend des règles locales ; un report ou paiement peut être possible."
+      },
+      {
+        "question": "Y a-t-il des congés pour événements familiaux ?",
+        "response": "Oui, pour des événements comme mariage ou décès, selon la loi et les politiques internes."
+      },
+      {
+        "question": "Comment sont calculés les jours de congé annuel ?",
+        "response": "Ils sont calculés selon votre ancienneté, contrat et législation locale."
+      },
+      {
+        "question": "Puis-je prendre des congés dès mon premier jour ?",
+        "response": "Non, les congés sont acquis après une période définie."
+      },
+      {
+        "question": "Y a-t-il des périodes où les congés sont interdits ?",
+        "response": "Oui, pendant les périodes de forte activité, selon les besoins opérationnels."
+      },
+      {
+        "question": "Comment vérifier mon solde de congés ?",
+        "response": "Via le portail employé, section gestion des absences."
+      },
+      {
+        "question": "Que se passe-t-il si je ne prends pas tous mes congés ?",
+        "response": "Ils peuvent être reportés ou payés, selon la politique locale."
+      },
+      {
+        "question": "Les jours fériés comptent-ils dans les congés annuels ?",
+        "response": "Non, ils sont séparés des congés annuels."
+      },
+      {
+        "question": "Puis-je prendre des congés à la demi-journée ?",
+        "response": "Oui, avec l’accord de votre manager."
+      },
+      {
+        "question": "Comment sont gérés les congés pour les temps partiels ?",
+        "response": "Ils sont proportionnels au temps de travail."
+      },
+      {
+        "question": "Quelle est la procédure pour des congés d’urgence ?",
+        "response": "Informez votre manager immédiatement et soumettez une demande dès que possible."
+      },
+      {
+        "question": "Puis-je annuler un congé approuvé ?",
+        "response": "Oui, avec l’accord de votre manager."
+      },
+      {
+        "question": "Combien de jours de maladie puis-je prendre ?",
+        "response": "Pas de limite fixe, mais un certificat peut être requis après quelques jours."
+      },
+      {
+        "question": "Faut-il un certificat pour chaque absence maladie ?",
+        "response": "Cela dépend de la durée et des règles locales."
+      },
+      {
+        "question": "Comment signaler une longue absence maladie ?",
+        "response": "Informez votre manager et les RH, avec documents médicaux."
+      },
+      {
+        "question": "Les absences maladie affectent-elles mes évaluations ?",
+        "response": "Non, si les procédures sont suivies."
+      },
+      {
+        "question": "Puis-je utiliser mes jours maladie pour ma famille ?",
+        "response": "Oui, dans certains pays, selon la politique locale."
+      },
+      {
+        "question": "Quelle politique pour les rendez-vous médicaux ?",
+        "response": "Ils peuvent être pris comme congés ou récupérés, selon accord."
+      },
+      {
+        "question": "Comment sont payés les jours maladie ?",
+        "response": "Selon la législation locale et votre ancienneté."
+      },
+      {
+        "question": "Y a-t-il une période d’attente pour les jours maladie ?",
+        "response": "Non, mais un certificat peut être requis dès le premier jour."
+      },
+      {
+        "question": "Que faire si je tombe malade pendant mes congés ?",
+        "response": "Informez votre manager ; les jours peuvent devenir des jours maladie."
+      },
+      {
+        "question": "Comment gérer une maladie chronique ?",
+        "response": "Avec suivi RH et aménagements si nécessaire."
+      },
+      {
+        "question": "Quelle est la durée du congé maternité chez Nestlé ?",
+        "response": "Selon la loi locale, avec extensions possibles."
+      },
+      {
+        "question": "Puis-je prendre un congé maternité partiel ?",
+        "response": "Oui, selon les accords locaux."
+      },
+      {
+        "question": "Quels documents pour un congé maternité ?",
+        "response": "Certificat médical et notification aux RH."
+      },
+      {
+        "question": "Comment est payé le congé maternité ?",
+        "response": "Selon la législation et les politiques Nestlé."
+      },
+      {
+        "question": "Puis-je prolonger mon congé maternité ?",
+        "response": "Oui, avec accord RH."
+      },
+      {
+        "question": "Quelle est la politique du congé paternité ?",
+        "response": "Selon la loi, avec jours supplémentaires possibles."
+      },
+      {
+        "question": "Les pères ont-ils des congés supplémentaires ?",
+        "response": "Oui, selon les politiques internes."
+      },
+      {
+        "question": "Y a-t-il des avantages pour les nouveaux parents ?",
+        "response": "Oui, comme des allocations ou du soutien."
+      },
+      {
+        "question": "Comment demander un congé adoption ?",
+        "response": "Comme pour le congé maternité, avec documents."
+      },
+      {
+        "question": "Puis-je partager mon congé parental ?",
+        "response": "Cela dépend des lois locales."
+      },
+      {
+        "question": "Quels événements familiaux sont couverts ?",
+        "response": "Mariage, décès, naissance, selon la loi et Nestlé."
+      },
+      {
+        "question": "Combien de jours pour un mariage ?",
+        "response": "Cela varie selon les pays."
+      },
+      {
+        "question": "Puis-je prendre des congés pour un décès ?",
+        "response": "Oui, selon les politiques locales."
+      },
+      {
+        "question": "Comment demander un congé familial ?",
+        "response": "Via le système en ligne, avec justification."
+      },
+      {
+        "question": "Y a-t-il des restrictions pour les congés familiaux ?",
+        "response": "Oui, selon l’événement et la législation."
+      },
+      {
+        "question": "Les congés familiaux sont-ils payés ?",
+        "response": "Oui, selon les conditions."
+      },
+      {
+        "question": "Congés pour la naissance d’un enfant ?",
+        "response": "Oui, via congé paternité ou maternité."
+      },
+      {
+        "question": "Quels documents pour un congé familial ?",
+        "response": "Certificats ou preuves de l’événement."
+      },
+      {
+        "question": "Congés pour cérémonies religieuses ?",
+        "response": "Possibles comme congés personnels, avec accord."
+      },
+      {
+        "question": "Puis-je prendre des congés pour obligations familiales ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Nestlé offre-t-elle des congés sabbatiques ?",
+        "response": "Oui, pour les employés éligibles."
+      },
+      {
+        "question": "Congés pour formation professionnelle ?",
+        "response": "Oui, avec approbation si pertinent."
+      },
+      {
+        "question": "Politique des congés personnels ?",
+        "response": "Possibles avec accord du manager."
+      },
+      {
+        "question": "Congés pour employés en déplacement ?",
+        "response": "Traités comme des congés normaux."
+      },
+      {
+        "question": "Congés pour bénévolat ?",
+        "response": "Oui, selon les politiques Nestlé."
+      },
+      {
+        "question": "Congés pour déménagement ?",
+        "response": "Oui, un jour peut être accordé."
+      },
+      {
+        "question": "Congés pour télétravailleurs ?",
+        "response": "Gérés comme pour les employés sur site."
+      },
+      {
+        "question": "Congés pour santé mentale ?",
+        "response": "Oui, avec certificat si nécessaire."
+      },
+      {
+        "question": "Congés pour employés handicapés ?",
+        "response": "Aménagés selon les besoins."
+      },
+      {
+        "question": "Congés pendant la période d’essai ?",
+        "response": "Oui, avec approbation."
+      },
+      {
+        "question": "Quel système gère les absences ?",
+        "response": "Le portail employé via l’intranet."
+      },
+      {
+        "question": "Comment accéder au système d’absences ?",
+        "response": "Avec vos identifiants d’entreprise."
+      },
+      {
+        "question": "Puis-je demander des congés par mobile ?",
+        "response": "Oui, via l’application Nestlé."
+      },
+      {
+        "question": "Comment mon manager approuve-t-il mes congés ?",
+        "response": "Via le système, avec notification email."
+      },
+      {
+        "question": "Que faire si mon congé est refusé ?",
+        "response": "Discutez avec votre manager."
+      },
+      {
+        "question": "Délai pour demander un congé ?",
+        "response": "Au moins deux semaines, selon les règles."
+      },
+      {
+        "question": "Congés pour une période future ?",
+        "response": "Oui, selon disponibilité."
+      },
+      {
+        "question": "Congés d’urgence : comment faire ?",
+        "response": "Prioritaires, avec justification."
+      },
+      {
+        "question": "Limite aux demandes de congé ?",
+        "response": "Non, dans la limite de votre solde."
+      },
+      {
+        "question": "Comment suivre ma demande de congé ?",
+        "response": "Via le portail, section absences."
+      },
+      {
+        "question": "Congés pour nouveaux employés ?",
+        "response": "Proportionnels à la date d’entrée."
+      },
+      {
+        "question": "Congés proratisés pour temps partiel ?",
+        "response": "Oui, selon le taux d’activité."
+      },
+      {
+        "question": "Comment accumuler les congés annuels ?",
+        "response": "Mensuellement, selon votre contrat."
+      },
+      {
+        "question": "Puis-je emprunter des congés futurs ?",
+        "response": "Non, sauf exception approuvée."
+      },
+      {
+        "question": "Congés si je change de poste ?",
+        "response": "Votre solde est transféré."
+      },
+      {
+        "question": "Congés pour contrats temporaires ?",
+        "response": "Proportionnels à la durée."
+      },
+      {
+        "question": "Les stagiaires ont-ils des congés payés ?",
+        "response": "Oui, selon la convention de stage."
+      },
+      {
+        "question": "Congés pour alternants ?",
+        "response": "Selon contrat et législation."
+      },
+      {
+        "question": "Bonus congés pour anciens employés ?",
+        "response": "Oui, des jours peuvent être ajoutés."
+      },
+      {
+        "question": "Congés en fin de carrière ?",
+        "response": "Utilisables avant la retraite."
+      },
+      {
+        "question": "Politiques de congé par pays ?",
+        "response": "Oui, adaptées localement."
+      },
+      {
+        "question": "Congés pour expatriés ?",
+        "response": "Selon le pays d’accueil."
+      },
+      {
+        "question": "Règles dans les filiales Nestlé ?",
+        "response": "Alignées sur politiques globales et locales."
+      },
+      {
+        "question": "Harmonisation des congés à l’international ?",
+        "response": "Via directives globales adaptées."
+      },
+      {
+        "question": "Congés culturels ou religieux ?",
+        "response": "Oui, selon pratiques locales."
+      },
+      {
+        "question": "Adaptation aux lois locales ?",
+        "response": "Nestlé ajuste ses politiques."
+      },
+      {
+        "question": "Transfert de congés entre pays ?",
+        "response": "Non, gérés localement."
+      },
+      {
+        "question": "Congés en mission à l’étranger ?",
+        "response": "Selon politiques du pays d’accueil."
+      },
+      {
+        "question": "Congés en zones difficiles ?",
+        "response": "Oui, selon conditions."
+      },
+      {
+        "question": "Congés pour fêtes nationales ?",
+        "response": "Généralement des jours fériés."
+      },
+      {
+        "question": "Puis-je donner mes congés à un collègue ?",
+        "response": "Non, non transférables."
+      },
+      {
+        "question": "Congés lors d’une fermeture d’entreprise ?",
+        "response": "Ajustés avec notification."
+      },
+      {
+        "question": "Congés pour formations obligatoires ?",
+        "response": "Considerées comme temps de travail."
+      },
+      {
+        "question": "Congés pendant le préavis ?",
+        "response": "Possibles avec accord."
+      },
+      {
+        "question": "Congés pendant la période d’essai ?",
+        "response": "Oui, sous réserve d’approbation."
+      },
+      {
+        "question": "Congés pour télétravail à temps plein ?",
+        "response": "Gérés comme pour les autres."
+      },
+      {
+        "question": "Congés pour bénévolat Nestlé ?",
+        "response": "Oui, selon programmes."
+      },
+      {
+        "question": "Congés pour employés handicapés ?",
+        "response": "Aménagés selon besoins."
+      },
+      {
+        "question": "Congés pour force majeure ?",
+        "response": "Oui, avec justification."
+      },
+      {
+        "question": "Nestlé encourage-t-elle les congés pour le bien-être ?",
+        "response": "Oui, via rappels sur le repos."
+      }
+    ],
+    "formation_et_developpement": [
+      {
+        "question": "Comment Nestlé soutient-elle le développement des employés ?",
+        "response": "Via des formations, du mentorat et des plans de carrière personnalisés."
+      },
+      {
+        "question": "Quelles opportunités de formation sont disponibles ?",
+        "response": "Cours en ligne, ateliers et certifications adaptés à votre rôle."
+      },
+      {
+        "question": "Comment demander une formation spécifique ?",
+        "response": "Parlez-en à votre manager et soumettez une demande via le portail de formation."
+      },
+      {
+        "question": "Nestlé propose-t-elle du mentorat ?",
+        "response": "Oui, des programmes de mentorat sont accessibles via le portail RH."
+      },
+      {
+        "question": "Comment fonctionne la mobilité interne ?",
+        "response": "Vous pouvez postuler à des postes internes via le portail de mobilité, en discutant avec votre manager."
+      },
+      {
+        "question": "Y a-t-il des opportunités internationales ?",
+        "response": "Oui, accessibles via le portail de mobilité interne."
+      },
+      {
+        "question": "Comment planifier ma carrière chez Nestlé ?",
+        "response": "Discutez de vos objectifs avec votre manager pour élaborer un plan personnalisé."
+      },
+      {
+        "question": "Nestlé soutient-elle les études ou certifications ?",
+        "response": "Oui, sous réserve d’approbation et de pertinence pour votre rôle."
+      },
+      {
+        "question": "Comment les performances sont-elles évaluées ?",
+        "response": "Par des entretiens annuels et revues régulières avec votre manager."
+      },
+      {
+        "question": "Puis-je changer de département ?",
+        "response": "Oui, via le portail de mobilité interne."
+      },
+      {
+        "question": "Quels types de formations en ligne propose Nestlé ?",
+        "response": "Formations techniques, managériales et de développement personnel."
+      },
+      {
+        "question": "Comment accéder au portail de formation ?",
+        "response": "Avec vos identifiants d’entreprise, via le site interne."
+      },
+      {
+        "question": "Les formations obligatoires sont-elles fréquentes ?",
+        "response": "Oui, notamment sur la sécurité et l’éthique, au moins une fois par an."
+      },
+      {
+        "question": "Puis-je suivre des formations en dehors des heures de travail ?",
+        "response": "Oui, pour certaines formations en ligne, avec accord préalable."
+      },
+      {
+        "question": "Comment savoir si une formation est adaptée à mon poste ?",
+        "response": "Consultez votre manager ou le catalogue sur le portail de formation."
+      },
+      {
+        "question": "Nestlé rembourse-t-elle les formations externes ?",
+        "response": "Oui, si elles sont approuvées et liées à votre rôle."
+      },
+      {
+        "question": "Quels critères pour une formation externe ?",
+        "response": "Pertinence pour votre poste, coût et absence d’équivalent interne."
+      },
+      {
+        "question": "Qui peut devenir mentor chez Nestlé ?",
+        "response": "Les employés expérimentés ayant suivi la formation de mentor."
+      },
+      {
+        "question": "Comment choisir un mentor ?",
+        "response": "Via le portail RH ou en accord avec votre manager."
+      },
+      {
+        "question": "Le mentorat est-il obligatoire ?",
+        "response": "Non, mais il est fortement encouragé."
+      },
+      {
+        "question": "Quels sont les délais pour postuler à un poste interne ?",
+        "response": "Ils varient selon le poste, vérifiez sur le portail de mobilité."
+      },
+      {
+        "question": "Puis-je postuler à un poste interne sans expérience préalable ?",
+        "response": "Oui, si vous avez les compétences transférables requises."
+      },
+      {
+        "question": "Comment être informé des opportunités de mobilité ?",
+        "response": "Via les alertes du portail de mobilité et les newsletters internes."
+      },
+      {
+        "question": "Quelles compétences sont valorisées pour la mobilité internationale ?",
+        "response": "Adaptabilité, langues étrangères et expérience pertinente."
+      },
+      {
+        "question": "Nestlé offre-t-elle une formation linguistique ?",
+        "response": "Oui, pour les employés en mobilité ou selon les besoins du poste."
+      },
+      {
+        "question": "Comment les nouveaux employés sont-ils formés ?",
+        "response": "Par un programme d’intégration et des formations initiales."
+      },
+      {
+        "question": "Y a-t-il des formations pour les jeunes talents ?",
+        "response": "Oui, comme les graduate programs et les stages structurés."
+      },
+      {
+        "question": "Comment postuler à un graduate program ?",
+        "response": "Via le site carrières de Nestlé avec CV et lettre de motivation."
+      },
+      {
+        "question": "Quels sont les avantages d’un graduate program ?",
+        "response": "Formation accélérée, mentorat et exposition à divers projets."
+      },
+      {
+        "question": "Les certifications externes sont-elles reconnues ?",
+        "response": "Oui, si elles sont pertinentes et validées par les RH."
+      },
+      {
+        "question": "Comment demander un remboursement pour une certification ?",
+        "response": "Soumettez facture et justificatif via le portail de formation."
+      },
+      {
+        "question": "Quels sont les programmes de leadership chez Nestlé ?",
+        "response": "Formations pour managers actuels et futurs leaders."
+      },
+      {
+        "question": "Les nouveaux managers reçoivent-ils une formation ?",
+        "response": "Oui, une formation obligatoire est prévue."
+      },
+      {
+        "question": "Comment fonctionne le coaching professionnel ?",
+        "response": "Sessions individuelles ou en groupe, sur demande approuvée."
+      },
+      {
+        "question": "Puis-je proposer un thème de formation ?",
+        "response": "Oui, via le portail de suggestions employé."
+      },
+      {
+        "question": "Les formations sont-elles disponibles en plusieurs langues ?",
+        "response": "Oui, selon le pays et les besoins des employés."
+      },
+      {
+        "question": "Comment suivre ma progression dans les formations ?",
+        "response": "Via le portail de formation avec un suivi des modules."
+      },
+      {
+        "question": "Les formations influencent-elles les promotions ?",
+        "response": "Oui, elles peuvent renforcer votre profil pour une promotion."
+      },
+      {
+        "question": "Quels outils sont disponibles pour le développement personnel ?",
+        "response": "Portail de formation, webinaires et ateliers."
+      },
+      {
+        "question": "Comment sont organisés les ateliers de développement ?",
+        "response": "En présentiel ou en ligne, selon le thème et la demande."
+      },
+      {
+        "question": "Puis-je demander une rotation de poste ?",
+        "response": "Oui, via votre manager et le portail de mobilité."
+      },
+      {
+        "question": "Quels sont les critères pour une rotation de poste ?",
+        "response": "Performance, besoins de l’entreprise et compétences."
+      },
+      {
+        "question": "Comment les seniors peuvent-ils se développer ?",
+        "response": "Via des formations avancées et des rôles de mentor."
+      },
+      {
+        "question": "Nestlé propose-t-elle des formations sur la retraite ?",
+        "response": "Oui, pour accompagner la transition vers la retraite."
+      },
+      {
+        "question": "Qu’est-ce que le programme de succession ?",
+        "response": "Identification et formation des futurs leaders clés."
+      },
+      {
+        "question": "Comment être éligible au programme de succession ?",
+        "response": "Par des performances élevées et une recommandation."
+      },
+      {
+        "question": "Y a-t-il des formations sur les compétences numériques ?",
+        "response": "Oui, comme la data analyse et les outils technologiques."
+      },
+      {
+        "question": "Comment rester à jour sur les nouvelles technologies ?",
+        "response": "Via des formations régulières et des mises à jour."
+      },
+      {
+        "question": "Nestlé encourage-t-elle l’apprentissage continu ?",
+        "response": "Oui, avec des ressources et des incitations."
+      },
+      {
+        "question": "Puis-je suivre des formations hors de mon domaine ?",
+        "response": "Oui, si cela soutient votre développement global."
+      },
+      {
+        "question": "Y a-t-il un budget formation par employé ?",
+        "response": "Oui, attribué annuellement selon les besoins."
+      },
+      {
+        "question": "Puis-je utiliser mon budget pour une conférence ?",
+        "response": "Oui, avec l’approbation de votre manager."
+      },
+      {
+        "question": "Comment sont évaluées les formations suivies ?",
+        "response": "Par des quiz, projets ou feedback."
+      },
+      {
+        "question": "Les formations en groupe sont-elles fréquentes ?",
+        "response": "Oui, organisées selon les besoins des équipes."
+      },
+      {
+        "question": "Puis-je demander une formation pour mon équipe ?",
+        "response": "Oui, en collaboration avec votre manager."
+      },
+      {
+        "question": "Quels thèmes couvrent les formations transversales ?",
+        "response": "Leadership, communication et gestion de projet."
+      },
+      {
+        "question": "Y a-t-il des formations sur la diversité ?",
+        "response": "Oui, obligatoires pour promouvoir l’inclusion."
+      },
+      {
+        "question": "Qu’est-ce que le mentorat inversé ?",
+        "response": "Les juniors forment les seniors sur des sujets comme la technologie."
+      },
+      {
+        "question": "Puis-je participer au mentorat inversé ?",
+        "response": "Oui, si vous avez des compétences à partager."
+      },
+      {
+        "question": "Comment demander un bilan de compétences ?",
+        "response": "Contactez les RH pour une évaluation personnalisée."
+      },
+      {
+        "question": "Y a-t-il des formations sur le bien-être ?",
+        "response": "Oui, comme la gestion du stress et l’équilibre."
+      },
+      {
+        "question": "Nestlé organise-t-elle des webinaires ?",
+        "response": "Oui, sur des sujets professionnels variés."
+      },
+      {
+        "question": "Les webinaires sont-ils accessibles en replay ?",
+        "response": "Oui, via le portail de formation."
+      },
+      {
+        "question": "Puis-je suggérer un sujet de webinaire ?",
+        "response": "Oui, via le portail de suggestions."
+      },
+      {
+        "question": "Y a-t-il des formations sur la communication ?",
+        "response": "Oui, comme la prise de parole en public."
+      },
+      {
+        "question": "Les formations en présentiel sont-elles fréquentes ?",
+        "response": "Oui, selon les besoins et la localisation."
+      },
+      {
+        "question": "Puis-je demander une formation sur mesure ?",
+        "response": "Oui, pour des besoins spécifiques approuvés."
+      },
+      {
+        "question": "Comment sont financées les formations ?",
+        "response": "Par le budget formation de Nestlé."
+      },
+      {
+        "question": "Puis-je suivre des formations pendant mes congés ?",
+        "response": "Non, sauf accord exceptionnel."
+      },
+      {
+        "question": "Les formations réussies sont-elles reconnues ?",
+        "response": "Oui, par des certificats ou badges."
+      },
+      {
+        "question": "Puis-je partager mes acquis après une formation ?",
+        "response": "Oui, via des sessions internes ou du mentorat."
+      },
+      {
+        "question": "Comment être informé des nouvelles formations ?",
+        "response": "Par newsletters et le portail de formation."
+      },
+      {
+        "question": "Y a-t-il des formations sur la durabilité ?",
+        "response": "Oui, liées aux objectifs environnementaux de Nestlé."
+      },
+      {
+        "question": "Les formations aident-elles à la stratégie de Nestlé ?",
+        "response": "Oui, en renforçant les compétences pour l’innovation."
+      },
+      {
+        "question": "Puis-je refuser une formation obligatoire ?",
+        "response": "Non, elles sont essentielles au poste."
+      },
+      {
+        "question": "Comment les formations sont-elles sélectionnées ?",
+        "response": "Selon les besoins de l’entreprise et des employés."
+      },
+      {
+        "question": "Y a-t-il des formations pour les équipes multiculturelles ?",
+        "response": "Oui, pour favoriser la collaboration globale."
+      },
+      {
+        "question": "Comment les formations sont-elles évaluées ?",
+        "response": "Par des retours d’expérience et des résultats."
+      },
+      {
+        "question": "Puis-je suivre des formations dans une autre région ?",
+        "response": "Oui, avec approbation et justification."
+      },
+      {
+        "question": "Quels sont les avantages des formations en ligne ?",
+        "response": "Flexibilité et accessibilité accrues."
+      },
+      {
+        "question": "Les formations sont-elles adaptées aux débutants ?",
+        "response": "Oui, avec des niveaux pour tous les profils."
+      },
+      {
+        "question": "Comment les formations soutiennent-elles l’innovation ?",
+        "response": "En développant des compétences créatives et techniques."
+      },
+      {
+        "question": "Y a-t-il des formations sur la gestion du changement ?",
+        "response": "Oui, pour accompagner les transitions."
+      },
+      {
+        "question": "Puis-je suivre des formations pour un futur poste ?",
+        "response": "Oui, si cela soutient votre plan de carrière."
+      },
+      {
+        "question": "Comment les formations sont-elles mises à jour ?",
+        "response": "Régulièrement, selon les tendances et besoins."
+      },
+      {
+        "question": "Y a-t-il des formations sur la cybersécurité ?",
+        "response": "Oui, pour protéger les données de l’entreprise."
+      },
+      {
+        "question": "Les formations sont-elles certifiées ?",
+        "response": "Certaines oui, reconnues à l’externe."
+      },
+      {
+        "question": "Puis-je demander une formation en urgence ?",
+        "response": "Oui, si le besoin est justifié."
+      },
+      {
+        "question": "Comment les formations améliorent-elles la performance ?",
+        "response": "En renforçant les compétences clés."
+      },
+      {
+        "question": "Y a-t-il des formations sur la gestion de projet ?",
+        "response": "Oui, pour tous les niveaux."
+      },
+      {
+        "question": "Comment les formations favorisent-elles le travail d’équipe ?",
+        "response": "Par des ateliers collaboratifs."
+      },
+      {
+        "question": "Puis-je suivre des formations pour changer de carrière ?",
+        "response": "Oui, avec un plan approuvé par les RH."
+      },
+      {
+        "question": "Les formations sont-elles évaluées par les employés ?",
+        "response": "Oui, via des enquêtes de satisfaction."
+      },
+      {
+        "question": "Y a-t-il des formations sur le service client ?",
+        "response": "Oui, pour les rôles concernés."
+      },
+      {
+        "question": "Comment les formations soutiennent-elles les objectifs personnels ?",
+        "response": "En alignant développement individuel et besoins de l’entreprise."
+      }
+    ],
+    "bulletins_de_paie_et_salaires": [
+      {
+        "question": "Quand les salaires sont-ils versés ?",
+        "response": "Le dernier jour ouvrable du mois, ou le jour précédent si férié."
+      },
+      {
+        "question": "Comment est structuré mon salaire ?",
+        "response": "Il comprend un salaire de base, plus primes ou bonus éventuels."
+      },
+      {
+        "question": "Quelles primes sont disponibles ?",
+        "response": "Bonus de performance, primes d’ancienneté ou liées à des projets."
+      },
+      {
+        "question": "Comment lire mon bulletin de paie ?",
+        "response": "Il détaille salaire brut, déductions et net. Contactez le service paie pour des clarifications."
+      },
+      {
+        "question": "Quelles sont les déductions sur mon salaire ?",
+        "response": "Impôts, cotisations sociales, retraite et assurance, selon votre situation."
+      },
+      {
+        "question": "Puis-je recevoir mon bulletin électroniquement ?",
+        "response": "Oui, via le portail employé."
+      },
+      {
+        "question": "Comment signaler une erreur sur ma paie ?",
+        "response": "Contactez le service paie via le portail RH avec les détails."
+      },
+      {
+        "question": "Nestlé propose-t-elle des avances sur salaire ?",
+        "response": "Oui, dans des cas exceptionnels, avec approbation RH."
+      },
+      {
+        "question": "Comment sont payées les heures supplémentaires ?",
+        "response": "À un taux majoré ou compensées en repos, selon la loi locale."
+      },
+      {
+        "question": "Puis-je demander une augmentation ?",
+        "response": "Oui, lors des entretiens annuels ou en discussion avec votre manager."
+      },
+      {
+        "question": "Comment est calculé mon salaire brut ?",
+        "response": "Il est basé sur votre salaire de base, vos primes et vos heures travaillées."
+      },
+      {
+        "question": "Quels sont les avantages inclus dans mon salaire ?",
+        "response": "Les avantages varient selon le poste, mais peuvent inclure des assurances et des allocations."
+      },
+      {
+        "question": "Comment les bonus sont-ils déterminés ?",
+        "response": "Ils sont basés sur les performances individuelles et collectives, selon les objectifs fixés."
+      },
+      {
+        "question": "Puis-je consulter mes anciens bulletins de paie ?",
+        "response": "Oui, ils sont disponibles sur le portail employé."
+      },
+      {
+        "question": "Quelles sont les cotisations sociales déduites ?",
+        "response": "Elles incluent les cotisations pour la sécurité sociale, la retraite et l’assurance chômage."
+      },
+      {
+        "question": "Comment fonctionne la retenue à la source ?",
+        "response": "Elle est appliquée selon les taux fiscaux locaux et votre situation personnelle."
+      },
+      {
+        "question": "Puis-je modifier mes informations bancaires pour le versement du salaire ?",
+        "response": "Oui, via le portail employé ou en contactant les RH."
+      },
+      {
+        "question": "Quels documents dois-je fournir pour une avance sur salaire ?",
+        "response": "Une demande écrite avec justification, soumise à l’approbation des RH."
+      },
+      {
+        "question": "Y a-t-il un plafond pour les heures supplémentaires ?",
+        "response": "Oui, selon la législation locale et les politiques internes."
+      },
+      {
+        "question": "Comment sont traitées les absences sur mon bulletin de paie ?",
+        "response": "Les absences non justifiées peuvent entraîner des déductions, selon les règles en vigueur."
+      },
+      {
+        "question": "Puis-je recevoir mon salaire en plusieurs versements ?",
+        "response": "Non, le salaire est versé en une seule fois à la fin du mois."
+      },
+      {
+        "question": "Quels sont les délais pour signaler une erreur sur ma paie ?",
+        "response": "Signalez toute erreur dès que possible, idéalement dans les 30 jours suivant la réception."
+      },
+      {
+        "question": "Comment sont gérées les primes de fin d’année ?",
+        "response": "Elles sont versées selon les performances et les politiques de l’entreprise."
+      },
+      {
+        "question": "Puis-je demander un relevé de salaire pour un prêt ?",
+        "response": "Oui, contactez le service paie pour obtenir un relevé officiel."
+      },
+      {
+        "question": "Quelles sont les implications fiscales des bonus ?",
+        "response": "Les bonus sont soumis à l’impôt sur le revenu, selon les taux en vigueur."
+      },
+      {
+        "question": "Comment sont calculées les indemnités de départ ?",
+        "response": "Elles sont basées sur votre ancienneté et votre salaire, selon la législation."
+      },
+      {
+        "question": "Puis-je choisir de ne pas recevoir certaines primes ?",
+        "response": "Non, les primes sont attribuées selon les politiques de l’entreprise."
+      },
+      {
+        "question": "Comment sont traitées les augmentations de salaire ?",
+        "response": "Elles sont généralement effectuées lors des évaluations annuelles ou lors de promotions."
+      },
+      {
+        "question": "Quels sont les critères pour une augmentation ?",
+        "response": "Performances, responsabilités accrues et benchmarks du marché."
+      },
+      {
+        "question": "Puis-je négocier mon salaire lors de l’embauche ?",
+        "response": "Oui, la négociation est possible avant la signature du contrat."
+      },
+      {
+        "question": "Comment sont gérées les promotions sur le bulletin de paie ?",
+        "response": "Les augmentations liées aux promotions sont reflétées dès le mois suivant."
+      },
+      {
+        "question": "Quelles sont les déductions pour la retraite ?",
+        "response": "Elles incluent les cotisations obligatoires et volontaires, selon votre plan."
+      },
+      {
+        "question": "Puis-je consulter mon historique de paie ?",
+        "response": "Oui, via le portail employé, vous pouvez accéder à vos bulletins archivés."
+      },
+      {
+        "question": "Comment sont calculées les indemnités de congés payés ?",
+        "response": "Elles sont basées sur votre salaire moyen des derniers mois."
+      },
+      {
+        "question": "Quels sont les taux d’imposition appliqués ?",
+        "response": "Ils varient selon votre tranche fiscale et la législation locale."
+      },
+      {
+        "question": "Puis-je demander une explication détaillée de mon bulletin ?",
+        "response": "Oui, contactez le service paie pour une analyse personnalisée."
+      },
+      {
+        "question": "Comment sont gérées les erreurs de paie ?",
+        "response": "Elles sont corrigées dès que possible, avec ajustement sur la paie suivante."
+      },
+      {
+        "question": "Puis-je recevoir mon salaire en devises étrangères ?",
+        "response": "Cela dépend de votre lieu de travail et des politiques de l’entreprise."
+      },
+      {
+        "question": "Quelles sont les politiques sur les prêts aux employés ?",
+        "response": "Des prêts peuvent être accordés dans des cas exceptionnels, avec approbation."
+      },
+      {
+        "question": "Comment sont traitées les heures de nuit ?",
+        "response": "Elles sont payées avec une majoration, selon la législation."
+      },
+      {
+        "question": "Puis-je demander un acompte sur salaire ?",
+        "response": "Oui, sous réserve d’approbation et dans les limites autorisées."
+      },
+      {
+        "question": "Quels sont les avantages en nature inclus dans mon salaire ?",
+        "response": "Ils peuvent inclure des véhicules de fonction ou des repas, selon le poste."
+      },
+      {
+        "question": "Comment sont calculées les primes de performance ?",
+        "response": "Elles sont basées sur des objectifs prédéfinis et évalués annuellement."
+      },
+      {
+        "question": "Puis-je choisir de recevoir mon salaire hebdomadairement ?",
+        "response": "Non, les salaires sont versés mensuellement."
+      },
+      {
+        "question": "Comment sont gérées les paies pendant les congés ?",
+        "response": "Votre salaire est versé normalement pendant les congés payés."
+      },
+      {
+        "question": "Puis-je demander un relevé de paie pour l’année ?",
+        "response": "Oui, il est disponible sur le portail employé."
+      },
+      {
+        "question": "Quels sont les délais pour les corrections de paie ?",
+        "response": "Les corrections sont généralement effectuées dans le mois suivant."
+      },
+      {
+        "question": "Comment sont traitées les primes pour travail dangereux ?",
+        "response": "Elles sont incluses dans votre salaire, selon les risques du poste."
+      },
+      {
+        "question": "Puis-je demander une avance sur mes primes ?",
+        "response": "Non, les primes sont versées selon les calendriers établis."
+      },
+      {
+        "question": "Quelles sont les politiques sur les gratifications ?",
+        "response": "Elles sont accordées pour des performances exceptionnelles."
+      },
+      {
+        "question": "Comment sont calculées les indemnités de licenciement ?",
+        "response": "Selon l’ancienneté et le motif du licenciement, conformément à la loi."
+      },
+      {
+        "question": "Puis-je recevoir mon salaire en chèques ?",
+        "response": "Non, les salaires sont versés par virement bancaire."
+      },
+      {
+        "question": "Quels sont les avantages fiscaux pour les employés ?",
+        "response": "Ils varient selon les pays et les politiques locales."
+      },
+      {
+        "question": "Comment sont gérées les paies pour les expatriés ?",
+        "response": "Elles sont adaptées aux conditions du pays d’accueil."
+      },
+      {
+        "question": "Puis-je demander un prêt sur mon salaire futur ?",
+        "response": "Non, mais des avances exceptionnelles peuvent être accordées."
+      },
+      {
+        "question": "Quelles sont les déductions pour les cotisations syndicales ?",
+        "response": "Elles sont facultatives et déduites sur demande."
+      },
+      {
+        "question": "Comment sont traitées les heures de formation sur la paie ?",
+        "response": "Elles sont considérées comme du temps de travail."
+      },
+      {
+        "question": "Puis-je demander une révision de mon salaire ?",
+        "response": "Oui, lors des entretiens d’évaluation ou avec justification."
+      },
+      {
+        "question": "Quels sont les critères pour les primes d’ancienneté ?",
+        "response": "Elles sont basées sur le nombre d’années de service."
+      },
+      {
+        "question": "Comment sont calculées les indemnités de fin de contrat ?",
+        "response": "Selon les termes du contrat et la législation applicable."
+      },
+      {
+        "question": "Puis-je recevoir mon salaire en espèces ?",
+        "response": "Non, pour des raisons de sécurité, seul le virement est autorisé."
+      },
+      {
+        "question": "Quelles sont les politiques sur les bonus de performance ?",
+        "response": "Ils sont attribués selon des objectifs individuels et collectifs."
+      },
+      {
+        "question": "Comment sont gérées les paies pour les stagiaires ?",
+        "response": "Les stagiaires reçoivent une indemnité selon les conventions."
+      },
+      {
+        "question": "Puis-je demander un relevé de paie pour mon dossier fiscal ?",
+        "response": "Oui, il est disponible sur demande auprès du service paie."
+      },
+      {
+        "question": "Quels sont les délais pour les ajustements de paie ?",
+        "response": "Les ajustements sont effectués dans le mois suivant la demande."
+      },
+      {
+        "question": "Comment sont traitées les primes pour les innovations ?",
+        "response": "Elles sont accordées pour des contributions significatives."
+      },
+      {
+        "question": "Puis-je demander une avance sur mes congés payés ?",
+        "response": "Non, les congés sont payés selon le calendrier établi."
+      },
+      {
+        "question": "Quelles sont les politiques sur les gratifications exceptionnelles ?",
+        "response": "Elles sont accordées pour des performances ou des projets spéciaux."
+      },
+      {
+        "question": "Comment sont calculées les indemnités de départ en retraite ?",
+        "response": "Selon l’ancienneté et les accords collectifs."
+      },
+      {
+        "question": "Puis-je recevoir mon salaire en plusieurs devises ?",
+        "response": "Non, le salaire est versé dans la devise locale."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés à temps partiel ?",
+        "response": "Ils reçoivent un salaire proportionnel à leur temps de travail."
+      },
+      {
+        "question": "Comment sont gérées les paies pour les employés en télétravail ?",
+        "response": "De la même manière que pour les employés sur site."
+      },
+      {
+        "question": "Puis-je demander un prêt pour l’achat d’une maison ?",
+        "response": "Des programmes spécifiques peuvent être disponibles, contactez les RH."
+      },
+      {
+        "question": "Quelles sont les déductions pour les cotisations de retraite ?",
+        "response": "Elles sont calculées selon votre salaire et les taux en vigueur."
+      },
+      {
+        "question": "Comment sont traitées les heures de travail le week-end ?",
+        "response": "Elles peuvent être majorées, selon les politiques internes."
+      },
+      {
+        "question": "Puis-je demander un relevé de paie pour un visa ?",
+        "response": "Oui, contactez le service paie pour un document officiel."
+      },
+      {
+        "question": "Quels sont les délais pour les corrections de paie après une erreur ?",
+        "response": "Les corrections sont prioritaires et traitées rapidement."
+      },
+      {
+        "question": "Comment sont gérées les primes pour les employés en mission ?",
+        "response": "Elles sont incluses dans le salaire ou versées séparément."
+      },
+      {
+        "question": "Puis-je demander une avance sur mes heures supplémentaires ?",
+        "response": "Non, elles sont payées selon le cycle de paie."
+      },
+      {
+        "question": "Quelles sont les politiques sur les bonus de fin d’année ?",
+        "response": "Ils sont basés sur les performances annuelles et les objectifs atteints."
+      },
+      {
+        "question": "Comment sont calculées les indemnités de congés non pris ?",
+        "response": "Elles sont payées à la fin du contrat ou selon les politiques internes."
+      },
+      {
+        "question": "Puis-je recevoir mon salaire en cryptomonnaies ?",
+        "response": "Non, seuls les virements bancaires sont autorisés."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés en CDI ?",
+        "response": "Ils bénéficient de primes et d’avantages sociaux complets."
+      },
+      {
+        "question": "Comment sont gérées les paies pour les employés en alternance ?",
+        "response": "Ils reçoivent une rémunération selon les conventions d’alternance."
+      },
+      {
+        "question": "Puis-je demander un relevé de paie pour un prêt bancaire ?",
+        "response": "Oui, il est disponible sur le portail ou auprès du service paie."
+      },
+      {
+        "question": "Quels sont les délais pour les ajustements de paie après une promotion ?",
+        "response": "Les ajustements sont effectués dès le mois suivant la promotion."
+      },
+      {
+        "question": "Comment sont traitées les primes pour les employés en télétravail ?",
+        "response": "Elles sont identiques à celles des employés sur site."
+      },
+      {
+        "question": "Puis-je demander une avance sur mes primes de performance ?",
+        "response": "Non, les primes sont versées selon les calendriers établis."
+      },
+      {
+        "question": "Quelles sont les politiques sur les gratifications pour les stagiaires ?",
+        "response": "Les stagiaires reçoivent des indemnités selon les conventions."
+      },
+      {
+        "question": "Comment sont calculées les indemnités de départ pour les CDD ?",
+        "response": "Selon la durée du contrat et la législation applicable."
+      },
+      {
+        "question": "Quels sont les avantages pourleps employés en mission à l’étranger ?",
+        "response": "Ils peuvent inclure des allocations de logement et de transport."
+      },
+      {
+        "question": "Comment sont gérées les paies pour les employés en congé sabbatique ?",
+        "response": "Le salaire est suspendu pendant le congé sabbatique."
+      },
+      {
+        "question": "Puis-je demander un prêt pour des études ?",
+        "response": "Des programmes spécifiques peuvent être disponibles, contactez les RH."
+      },
+      {
+        "question": "Quelles sont les déductions pour les cotisations de santé ?",
+        "response": "Elles sont calculées selon votre salaire et les taux en vigueur."
+      },
+      {
+        "question": "Comment sont traitées les heures de travail pendant les jours fériés ?",
+        "response": "Elles peuvent être majorées, selon les politiques internes."
+      },
+      {
+        "question": "Puis-je demander un relevé de paie pour un dossier de retraite ?",
+        "response": "Oui, contactez le service paie pour un document officiel."
+      },
+      {
+        "question": "Quels sont les délais pour les corrections de paie après une absence ?",
+        "response": "Les corrections sont effectuées dans le mois suivant."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle les salaires pendant une pandémie ?",
+        "response": "Les salaires sont maintenus selon les politiques en vigueur et la législation."
+      },
+      {
+        "question": "Puis-je demander une simulation de mon bulletin de paie ?",
+        "response": "Oui, contactez le service paie pour une simulation personnalisée."
+      }
+    ],
+    "avantages_sociaux": [
+      {
+        "question": "Quels avantages Nestlé offre-t-elle ?",
+        "response": "Assurance santé, retraite, tickets restaurant, réductions produits, et bien-être."
+      },
+      {
+        "question": "Comment m’inscrire aux avantages ?",
+        "response": "Via le portail employé lors de l’onboarding ou des périodes annuelles."
+      },
+      {
+        "question": "Nestlé propose-t-elle une mutuelle santé ?",
+        "response": "Oui, pour les employés et leur famille, avec plusieurs options."
+      },
+      {
+        "question": "Y a-t-il des avantages pour les transports ?",
+        "response": "Remboursements partiels ou parking subventionné, selon le site."
+      },
+      {
+        "question": "Quels avantages pour les parents ?",
+        "response": "Congés parentaux, crèches ou allocations, selon les sites."
+      },
+      {
+        "question": "Nestlé a-t-elle un comité d’entreprise ?",
+        "response": "Oui, organisant activités et avantages collectifs."
+      },
+      {
+        "question": "Les avantages sont-ils identiques pour tous ?",
+        "response": "Ils varient selon le pays, contrat et poste, mais restent équitables."
+      },
+      {
+        "question": "Puis-je renoncer à certains avantages ?",
+        "response": "Oui, pour les avantages optionnels, lors de l’inscription."
+      },
+      {
+        "question": "Comment fonctionne le plan de retraite ?",
+        "response": "Retraite complémentaire avec cotisations volontaires possibles."
+      },
+      {
+        "question": "Y a-t-il des programmes de bien-être ?",
+        "response": "Oui, incluant sport, nutrition et santé mentale."
+      },
+      {
+        "question": "Quelles sont les options de couverture santé disponibles ?",
+        "response": "Nestlé propose plusieurs plans de mutuelle santé adaptés aux besoins des employés et de leur famille."
+      },
+      {
+        "question": "La mutuelle santé couvre-t-elle les membres de ma famille ?",
+        "response": "Oui, la mutuelle santé peut être étendue aux membres de votre famille, selon le plan choisi."
+      },
+      {
+        "question": "Y a-t-il une assurance dentaire ?",
+        "response": "Oui, l'assurance dentaire est incluse dans certains plans de mutuelle santé."
+      },
+      {
+        "question": "Comment fonctionne le programme de bien-être ?",
+        "response": "Le programme de bien-être propose des initiatives comme des ateliers de gestion du stress, des séances de sport et des conseils nutritionnels."
+      },
+      {
+        "question": "Nestlé offre-t-elle des abonnements à des salles de sport ?",
+        "response": "Oui, des réductions ou des abonnements subventionnés sont disponibles selon les sites."
+      },
+      {
+        "question": "Quel est le plan de retraite proposé par Nestlé ?",
+        "response": "Nestlé propose un plan de retraite complémentaire avec des cotisations de l'employeur et de l'employé."
+      },
+      {
+        "question": "Puis-je cotiser volontairement à mon plan de retraite ?",
+        "response": "Oui, vous pouvez effectuer des cotisations volontaires pour augmenter votre épargne retraite."
+      },
+      {
+        "question": "Y a-t-il des options d’achat d’actions pour les employés ?",
+        "response": "Oui, Nestlé propose un programme d'achat d'actions à tarif préférentiel pour les employés."
+      },
+      {
+        "question": "Comment sont calculés les bonus annuels ?",
+        "response": "Les bonus sont basés sur la performance individuelle et les résultats de l'entreprise."
+      },
+      {
+        "question": "Nestlé propose-t-elle un plan d’épargne entreprise ?",
+        "response": "Oui, un plan d'épargne entreprise est disponible avec des options d'investissement variées."
+      },
+      {
+        "question": "Quelles sont les politiques de télétravail chez Nestlé ?",
+        "response": "Nestlé autorise le télétravail partiel ou total selon les postes et avec accord du manager."
+      },
+      {
+        "question": "Puis-je demander des horaires flexibles ?",
+        "response": "Oui, des horaires flexibles peuvent être arrangés avec votre manager."
+      },
+      {
+        "question": "Combien de jours de congé payé ai-je droit ?",
+        "response": "Le nombre de jours de congé payé dépend de votre contrat et de votre ancienneté."
+      },
+      {
+        "question": "Quelle est la politique de congé parental ?",
+        "response": "Nestlé offre des congés parentaux conformes à la législation locale, avec des extensions possibles."
+      },
+      {
+        "question": "Y a-t-il des options de garde d’enfants subventionnées ?",
+        "response": "Oui, selon les sites, des crèches ou des allocations sont disponibles."
+      },
+      {
+        "question": "Quels programmes de formation sont disponibles ?",
+        "response": "Nestlé propose des formations en ligne, des ateliers et des programmes de développement professionnel."
+      },
+      {
+        "question": "Nestlé rembourse-t-elle les frais de scolarité pour des études supérieures ?",
+        "response": "Oui, sous réserve d'approbation et de pertinence pour votre rôle."
+      },
+      {
+        "question": "Y a-t-il des opportunités de mentorat ?",
+        "response": "Oui, des programmes de mentorat sont disponibles pour soutenir votre développement."
+      },
+      {
+        "question": "Comment puis-je progresser dans ma carrière chez Nestlé ?",
+        "response": "Discutez de vos objectifs avec votre manager et explorez les opportunités internes."
+      },
+      {
+        "question": "Quels sont les critères pour les promotions internes ?",
+        "response": "Les promotions sont basées sur la performance, les compétences et les opportunités disponibles."
+      },
+      {
+        "question": "Les employés reçoivent-ils des réductions sur les produits Nestlé ?",
+        "response": "Oui, des réductions sont offertes sur une sélection de produits."
+      },
+      {
+        "question": "Y a-t-il des tickets restaurant ou des subventions pour les repas ?",
+        "response": "Oui, des tickets restaurant ou des subventions sont disponibles selon les sites."
+      },
+      {
+        "question": "Nestlé fournit-elle des voitures de fonction ?",
+        "response": "Pour certains postes, des voitures de fonction peuvent être fournies."
+      },
+      {
+        "question": "Quels sont les avantages pour les déplacements professionnels ?",
+        "response": "Les frais de déplacement sont remboursés selon les politiques de l'entreprise."
+      },
+      {
+        "question": "Y a-t-il des programmes de reconnaissance des employés ?",
+        "response": "Oui, des programmes de reconnaissance récompensent les performances exceptionnelles."
+      },
+      {
+        "question": "Quelles activités sociales sont organisées par le comité d’entreprise ?",
+        "response": "Le comité d'entreprise organise des événements culturels, sportifs et des sorties."
+      },
+      {
+        "question": "Puis-je participer à des initiatives de volontariat soutenues par Nestlé ?",
+        "response": "Oui, Nestlé encourage le volontariat et propose des programmes dédiés."
+      },
+      {
+        "question": "Y a-t-il un programme d’assistance aux employés pour les problèmes personnels ?",
+        "response": "Oui, un programme d'assistance offre du soutien confidentiel."
+      },
+      {
+        "question": "Comment Nestlé soutient-elle la diversité et l’inclusion ?",
+        "response": "Via des politiques, des formations et des groupes de ressources pour employés."
+      },
+      {
+        "question": "Quelles sont les politiques de Nestlé en matière de santé et sécurité au travail ?",
+        "response": "Nestlé a des normes strictes et des formations régulières pour assurer la sécurité."
+      },
+      {
+        "question": "Comment puis-je m’inscrire à la mutuelle santé ?",
+        "response": "Lors de l'onboarding ou pendant les périodes d'inscription annuelles via le portail."
+      },
+      {
+        "question": "Quels sont les délais pour modifier ma couverture santé ?",
+        "response": "Les modifications sont possibles pendant les périodes d'inscription annuelles."
+      },
+      {
+        "question": "La mutuelle santé couvre-t-elle les médecines alternatives ?",
+        "response": "Cela dépend du plan choisi ; consultez les détails de votre couverture."
+      },
+      {
+        "question": "Y a-t-il des programmes de vaccination gratuits ?",
+        "response": "Oui, des campagnes de vaccination sont organisées selon les besoins."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion du stress ?",
+        "response": "Il propose des ateliers, des séances de relaxation et du soutien psychologique."
+      },
+      {
+        "question": "Quels sont les avantages fiscaux liés au plan de retraite ?",
+        "response": "Les cotisations peuvent offrir des déductions fiscales selon la législation locale."
+      },
+      {
+        "question": "Puis-je transférer mon plan de retraite si je quitte Nestlé ?",
+        "response": "Oui, vous pouvez transférer votre plan selon les conditions du programme."
+      },
+      {
+        "question": "Comment sont gérées les cotisations au plan de retraite ?",
+        "response": "Les cotisations sont prélevées automatiquement sur votre salaire."
+      },
+      {
+        "question": "Y a-t-il des conseillers financiers disponibles pour les employés ?",
+        "response": "Oui, des sessions avec des conseillers sont organisées régulièrement."
+      },
+      {
+        "question": "Quelles sont les options de prêt ou d’avance sur salaire ?",
+        "response": "Des avances sur salaire peuvent être accordées dans des cas exceptionnels."
+      },
+      {
+        "question": "Puis-je prendre des congés sans solde ?",
+        "response": "Oui, avec l'accord de votre manager et des RH."
+      },
+      {
+        "question": "Comment sont gérés les congés pour événements familiaux ?",
+        "response": "Des congés spéciaux sont accordés pour des événements comme mariages ou naissances."
+      },
+      {
+        "question": "Y a-t-il des politiques de soutien pour les aidants familiaux ?",
+        "response": "Oui, des aménagements de travail et des congés peuvent être accordés."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle les demandes de congé pour raisons personnelles ?",
+        "response": "Les demandes sont évaluées au cas par cas avec votre manager."
+      },
+      {
+        "question": "Puis-je cumuler mes jours de congé d’une année sur l’autre ?",
+        "response": "Cela dépend des politiques locales ; consultez le guide des avantages."
+      },
+      {
+        "question": "Quels sont les programmes de leadership disponibles ?",
+        "response": "Des formations et des ateliers sont proposés pour développer les compétences de leadership."
+      },
+      {
+        "question": "Y a-t-il des formations obligatoires pour tous les employés ?",
+        "response": "Oui, comme les formations sur la sécurité et l'éthique."
+      },
+      {
+        "question": "Comment puis-je demander une formation spécifique ?",
+        "response": "Discutez-en avec votre manager et soumettez une demande via le portail."
+      },
+      {
+        "question": "Nestlé soutient-elle les certifications professionnelles ?",
+        "response": "Oui, sous réserve d'approbation et de pertinence pour votre rôle."
+      },
+      {
+        "question": "Y a-t-il des opportunités de rotation de poste ?",
+        "response": "Oui, pour favoriser le développement des compétences et la mobilité interne."
+      },
+      {
+        "question": "Les employés ont-ils droit à des cadeaux d’entreprise ?",
+        "response": "Oui, pour certaines occasions ou anniversaires de service."
+      },
+      {
+        "question": "Y a-t-il des programmes de fidélité ou de points pour les employés ?",
+        "response": "Certains sites offrent des programmes de points échangeables contre des avantages."
+      },
+      {
+        "question": "Comment fonctionne le programme de parrainage pour le recrutement ?",
+        "response": "Les employés peuvent recommander des candidats et recevoir une prime si embauchés."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés à temps partiel ?",
+        "response": "Ils sont proportionnels au temps de travail, selon les politiques locales."
+      },
+      {
+        "question": "Y a-t-il des subventions pour l’achat de matériel informatique ?",
+        "response": "Pour les télétravailleurs, du matériel peut être fourni ou subventionné."
+      },
+      {
+        "question": "Comment puis-je m’impliquer dans les initiatives RSE de Nestlé ?",
+        "response": "Via les programmes de volontariat ou les groupes de travail internes."
+      },
+      {
+        "question": "Y a-t-il des groupes de ressources pour les employés (ERG) ?",
+        "response": "Oui, pour soutenir la diversité et l'inclusion, comme les ERG pour les femmes ou les LGBTQ+."
+      },
+      {
+        "question": "Quelles sont les politiques de Nestlé sur le harcèlement au travail ?",
+        "response": "Nestlé a une politique de tolérance zéro et des procédures de signalement."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle les plaintes des employés ?",
+        "response": "Via un processus formel avec enquête et suivi."
+      },
+      {
+        "question": "Y a-t-il des programmes de mentorat intergénérationnel ?",
+        "response": "Oui, pour favoriser le partage de connaissances entre générations."
+      },
+      {
+        "question": "Comment sont calculés les jours de congé pour les nouveaux employés ?",
+        "response": "Ils sont proratisés en fonction de la date d'entrée."
+      },
+      {
+        "question": "Y a-t-il des avantages pour les employés qui font du covoiturage ?",
+        "response": "Certains sites offrent des incitations ou des places de parking réservées."
+      },
+      {
+        "question": "Nestlé offre-t-elle des services de conciergerie ?",
+        "response": "Sur certains sites, des services de conciergerie sont disponibles."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés qui déménagent pour le travail ?",
+        "response": "Des allocations de déménagement et un soutien logistique peuvent être fournis."
+      },
+      {
+        "question": "Comment fonctionne le programme de bien-être mental ?",
+        "response": "Il propose des sessions de counseling, des ateliers et des ressources en ligne."
+      },
+      {
+        "question": "Y a-t-il des subventions pour les activités sportives ou culturelles ?",
+        "response": "Oui, via le comité d'entreprise ou des programmes spécifiques."
+      },
+      {
+        "question": "Puis-je utiliser mes avantages sociaux à l’étranger ?",
+        "response": "Certains avantages peuvent être utilisables à l'international, selon les politiques."
+      },
+      {
+        "question": "Comment sont gérés les avantages pour les employés en mission internationale ?",
+        "response": "Ils sont ajustés pour répondre aux besoins spécifiques de la mission."
+      },
+      {
+        "question": "Y a-t-il des programmes de reconnaissance pour les années de service ?",
+        "response": "Oui, des récompenses sont offertes pour les jalons d'ancienneté."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés qui participent à des projets innovants ?",
+        "response": "Ils peuvent recevoir des primes ou des reconnaissances spéciales."
+      },
+      {
+        "question": "Comment puis-je accéder aux services de santé préventive ?",
+        "response": "Via la mutuelle santé ou les programmes de bien-être de l'entreprise."
+      },
+      {
+        "question": "Y a-t-il des programmes de sevrage tabagique ?",
+        "response": "Oui, des programmes de soutien sont disponibles."
+      },
+      {
+        "question": "Nestlé propose-t-elle des conseils nutritionnels ?",
+        "response": "Oui, via des ateliers ou des consultations avec des nutritionnistes."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés qui adoptent un mode de vie durable ?",
+        "response": "Des incitations peuvent être offertes pour des actions éco-responsables."
+      },
+      {
+        "question": "Comment fonctionne le programme de parrainage pour les nouveaux employés ?",
+        "response": "Les parrains peuvent recevoir des primes ou des avantages pour leur soutien."
+      },
+      {
+        "question": "Y a-t-il des avantages pour les employés qui recommandent des candidats ?",
+        "response": "Oui, des primes de recommandation sont accordées si le candidat est embauché."
+      },
+      {
+        "question": "Quels sont les critères pour bénéficier des avantages sociaux ?",
+        "response": "Les critères varient selon les avantages, mais tous les employés éligibles y ont droit."
+      },
+      {
+        "question": "Puis-je partager mes avantages avec ma famille ?",
+        "response": "Certains avantages, comme la mutuelle santé, peuvent être étendus à la famille."
+      },
+      {
+        "question": "Comment sont gérés les avantages pour les employés en congé longue durée ?",
+        "response": "Les avantages sont maintenus selon les politiques de l'entreprise."
+      },
+      {
+        "question": "Y a-t-il des avantages spécifiques pour les employés seniors ?",
+        "response": "Oui, comme des programmes de préparation à la retraite."
+      },
+      {
+        "question": "Comment Nestlé soutient-elle les employés en situation de handicap ?",
+        "response": "Via des aménagements de poste et des programmes de soutien."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés qui travaillent en équipe de nuit ?",
+        "response": "Des primes de nuit et des aménagements horaires peuvent être offerts."
+      },
+      {
+        "question": "Y a-t-il des programmes de soutien pour les employés en deuil ?",
+        "response": "Oui, via le programme d'assistance aux employés."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion de carrière ?",
+        "response": "Il propose des outils et des entretiens pour planifier votre évolution."
+      },
+      {
+        "question": "Puis-je demander un bilan de compétences ?",
+        "response": "Oui, via les RH pour évaluer vos compétences et aspirations."
+      },
+      {
+        "question": "Y a-t-il des avantages pour les employés qui participent à des formations externes ?",
+        "response": "Des remboursements ou des congés pour formation peuvent être accordés."
+      },
+      {
+        "question": "Comment sont gérés les avantages pour les employés en télétravail ?",
+        "response": "Ils sont identiques à ceux des employés sur site, avec adaptations si nécessaire."
+      },
+      {
+        "question": "Quels sont les avantages pour les employés qui atteignent leurs objectifs de performance ?",
+        "response": "Des bonus ou des reconnaissances peuvent être accordés."
+      },
+      {
+        "question": "Y a-t-il des programmes de reconnaissance pour les idées innovantes ?",
+        "response": "Oui, via des concours ou des récompenses pour l'innovation."
+      },
+      {
+        "question": "Comment puis-je donner mon avis sur les avantages sociaux proposés ?",
+        "response": "Via des enquêtes de satisfaction ou des suggestions aux RH."
+      }
+    ],
+    "horaires_et_teletravail": [
+      {
+        "question": "Quels sont les horaires standard ?",
+        "response": "Généralement 35 à 40 heures par semaine, selon le contrat."
+      },
+      {
+        "question": "Puis-je demander des horaires flexibles ?",
+        "response": "Oui, avec l'accord de votre manager et selon les besoins opérationnels."
+      },
+      {
+        "question": "Comment fonctionne le travail à temps partiel ?",
+        "response": "Il est possible avec un contrat ajusté, selon les besoins du poste."
+      },
+      {
+        "question": "Puis-je travailler en dehors des heures standard ?",
+        "response": "Oui, avec l'accord de votre manager, selon les besoins."
+      },
+      {
+        "question": "Comment sont comptabilisées les heures supplémentaires ?",
+        "response": "Elles sont enregistrées et compensées selon la législation et les politiques Nestlé."
+      },
+      {
+        "question": "Quelles sont les politiques sur le travail de nuit ?",
+        "response": "Le travail de nuit est réglementé et peut inclure des compensations spécifiques."
+      },
+      {
+        "question": "Y a-t-il des politiques sur le travail le week-end ?",
+        "response": "Le travail le week-end est exceptionnel et doit être approuvé."
+      },
+      {
+        "question": "Comment sont gérées les pauses pendant la journée de travail ?",
+        "response": "Les pauses sont définies par la législation locale et les politiques internes."
+      },
+      {
+        "question": "Comment puis-je demander une modification de mes horaires ?",
+        "response": "Discutez-en avec votre manager et soumettez une demande via le portail RH."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour raisons personnelles ?",
+        "response": "Oui, avec justification et approbation de votre manager."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les parents ?",
+        "response": "Des aménagements peuvent être proposés pour concilier vie professionnelle et familiale."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour raisons de santé ?",
+        "response": "Oui, avec justification médicale et approbation."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour obligations familiales ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour raisons religieuses ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour obligations civiques ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour raisons de garde d'enfants ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour raisons de volontariat ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour formation ?",
+        "response": "Oui, avec accord, pour suivre des formations pendant les heures de travail."
+      },
+      {
+        "question": "Puis-je demander un aménagement d'horaires pour raisons de formation continue ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Quelle est la politique de télétravail ?",
+        "response": "Télétravail partiel possible avec approbation."
+      },
+      {
+        "question": "Nestlé autorise-t-elle le travail flexible ?",
+        "response": "Oui, avec des arrangements possibles avec votre manager."
+      },
+      {
+        "question": "Comment demander le télétravail ?",
+        "response": "Discutez avec votre manager et soumettez une demande via le portail RH."
+      },
+      {
+        "question": "Quelle est la politique de Nestlé sur le télétravail à temps plein ?",
+        "response": "Le télétravail à temps plein est possible pour certains postes, avec approbation."
+      },
+      {
+        "question": "Y a-t-il des restrictions au télétravail ?",
+        "response": "Oui, pour certains postes ou selon la productivité."
+      },
+      {
+        "question": "Puis-je choisir mes jours de télétravail ?",
+        "response": "Oui, en accord avec votre manager et selon les besoins de l'équipe."
+      },
+      {
+        "question": "Y a-t-il des jours obligatoires de présence sur site ?",
+        "response": "Cela dépend du poste et des accords avec votre manager."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une partie de la journée ?",
+        "response": "Oui, avec accord, pour combiner présence sur site et télétravail."
+      },
+      {
+        "question": "Puis-je télétravailler à l'étranger ?",
+        "response": "Possible avec approbation, en raison des implications légales."
+      },
+      {
+        "question": "Puis-je télétravailler depuis un espace de coworking ?",
+        "response": "Oui, à condition de respecter les politiques de sécurité des données."
+      },
+      {
+        "question": "Puis-je télétravailler depuis un autre site Nestlé ?",
+        "response": "Oui, avec accord de votre manager et du site d'accueil."
+      },
+      {
+        "question": "Nestlé fournit-elle du matériel pour le télétravail ?",
+        "response": "Oui, comme un ordinateur et un accès VPN."
+      },
+      {
+        "question": "Quels équipements sont fournis pour le télétravail ?",
+        "response": "Ordinateur, accès VPN, et éventuellement du mobilier ergonomique."
+      },
+      {
+        "question": "Puis-je demander un bureau à domicile ?",
+        "response": "Nestlé peut fournir du matériel ergonomique, selon les politiques."
+      },
+      {
+        "question": "Comment sont gérées les connexions internet en télétravail ?",
+        "response": "Vous devez disposer d'une connexion stable ; Nestlé peut fournir un soutien."
+      },
+      {
+        "question": "Comment sont gérées les heures en télétravail ?",
+        "response": "Respectez vos horaires habituels et restez joignable."
+      },
+      {
+        "question": "Quelles sont les attentes en matière de disponibilité en télétravail ?",
+        "response": "Être joignable pendant vos heures de travail habituelles."
+      },
+      {
+        "question": "Y a-t-il des restrictions sur les heures de connexion en télétravail ?",
+        "response": "Oui, pour respecter les temps de repos et éviter le surmenage."
+      },
+      {
+        "question": "Comment sont gérées les pauses en télétravail ?",
+        "response": "Vous devez prendre des pauses comme sur site, pour votre bien-être."
+      },
+      {
+        "question": "Comment sont évaluées les performances en télétravail ?",
+        "response": "Sur la base des résultats et de la productivité, comme pour le travail sur site."
+      },
+      {
+        "question": "Quelles sont les attentes en matière de productivité en télétravail ?",
+        "response": "Maintenir le même niveau de productivité qu'au bureau."
+      },
+      {
+        "question": "Le télétravail affecte-t-il mes avantages ?",
+        "response": "Non, ils restent identiques."
+      },
+      {
+        "question": "Comment assurer la collaboration en télétravail ?",
+        "response": "Via des outils comme Microsoft Teams."
+      },
+      {
+        "question": "Comment sont gérées les communications en télétravail ?",
+        "response": "Via des outils comme Microsoft Teams, Zoom, et des réunions régulières."
+      },
+      {
+        "question": "Comment sont organisées les réunions en télétravail ?",
+        "response": "Via des plateformes comme Teams, avec des horaires convenus à l'avance."
+      },
+      {
+        "question": "Comment sont organisées les réunions d'équipe en télétravail ?",
+        "response": "Via des outils de visioconférence, avec participation active."
+      },
+      {
+        "question": "Comment Nestlé assure-t-elle la sécurité des données en télétravail ?",
+        "response": "Via des formations, des VPN sécurisés et des politiques strictes."
+      },
+      {
+        "question": "Y a-t-il des restrictions sur les logiciels utilisés en télétravail ?",
+        "response": "Oui, seuls les logiciels approuvés par Nestlé sont autorisés."
+      },
+      {
+        "question": "Comment sont gérées les interruptions de service en télétravail ?",
+        "response": "Informez votre manager et ajustez vos tâches en conséquence."
+      },
+      {
+        "question": "Y a-t-il des formations spécifiques pour le télétravail ?",
+        "response": "Oui, sur la gestion du temps et l'utilisation des outils collaboratifs."
+      },
+      {
+        "question": "Y a-t-il des formations sur la gestion du temps en télétravail ?",
+        "response": "Oui, disponibles via le portail de formation."
+      },
+      {
+        "question": "Comment sont gérées les absences en télétravail ?",
+        "response": "De la même manière que sur site, via le système de gestion des absences."
+      },
+      {
+        "question": "Comment sont gérées les absences imprévues en télétravail ?",
+        "response": "Informez votre manager dès que possible et suivez les procédures."
+      },
+      {
+        "question": "Comment sont gérées les urgences en télétravail ?",
+        "response": "Informez votre manager et ajustez vos horaires en conséquence."
+      },
+      {
+        "question": "Puis-je télétravailler pendant mes congés ?",
+        "response": "Non, les congés sont des périodes de repos."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les congés ?",
+        "response": "Les congés sont des périodes de repos, le télétravail n'est pas autorisé."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les jours de congé maladie ?",
+        "response": "Les jours de congé maladie sont des périodes de repos, le télétravail n'est pas autorisé."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une période de transition ?",
+        "response": "Oui, avec accord, pour faciliter la transition."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une période de convalescence ?",
+        "response": "Oui, avec accord médical et approbation."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une période de convalescence à domicile ?",
+        "response": "Oui, avec accord médical et approbation."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une période de déménagement ?",
+        "response": "Oui, avec accord, pour faciliter la transition."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une période de fermeture de site ?",
+        "response": "Oui, si cela est autorisé et que votre poste le permet."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une période de travaux à domicile ?",
+        "response": "Oui, avec accord, pour minimiser les perturbations."
+      },
+      {
+        "question": "Puis-je télétravailler pendant une période de travaux sur site ?",
+        "response": "Oui, avec accord, pour minimiser les perturbations."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les jours de grève ?",
+        "response": "Le télétravail peut être une option, selon les circonstances."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les jours fériés ?",
+        "response": "Les jours fériés sont respectés, avec possibilité de travailler selon accord."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail partiel ?",
+        "response": "Les jours de télétravail sont définis avec votre manager."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail occasionnel ?",
+        "response": "Le télétravail occasionnel doit être approuvé à l'avance."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail à l'étranger ?",
+        "response": "Selon les politiques locales et les implications légales."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les périodes de forte charge ?",
+        "response": "Des ajustements peuvent être nécessaires, avec communication claire."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les périodes de forte demande ?",
+        "response": "Des ajustements peuvent être nécessaires, avec communication claire."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les périodes de forte demande opérationnelle ?",
+        "response": "Des ajustements peuvent être nécessaires, avec communication claire."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les périodes de forte charge de travail ?",
+        "response": "Des ajustements peuvent être nécessaires, avec communication claire."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en télétravail pendant les jours de formation ?",
+        "response": "Les jours de formation sont considérés comme du temps de travail."
+      },
+      {
+        "question": "Y a-t-il des horaires obligatoires pour certaines réunions ?",
+        "response": "Oui, certaines réunions peuvent nécessiter votre présence à des heures fixes."
+      },
+      {
+        "question": "Quelles sont les politiques sur les horaires flexibles ?",
+        "response": "Elles permettent de commencer et finir plus tôt ou plus tard, selon accord."
+      },
+      {
+        "question": "Puis-je travailler en horaires décalés ?",
+        "response": "Oui, si cela est compatible avec les besoins de votre équipe."
+      },
+      {
+        "question": "Quelles sont les politiques sur le travail en dehors des heures normales ?",
+        "response": "Le travail en dehors des heures doit être exceptionnel et approuvé."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les managers ?",
+        "response": "Les managers doivent être disponibles pour leur équipe, avec flexibilité."
+      },
+      {
+        "question": "Y a-t-il des restrictions sur les heures de connexion pour les managers ?",
+        "response": "Les managers doivent être disponibles pendant les heures de travail de l'équipe."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les projets urgents ?",
+        "response": "Des heures supplémentaires peuvent être nécessaires, avec compensation."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en période de forte charge ?",
+        "response": "Des heures supplémentaires peuvent être nécessaires, avec compensation."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les employés à temps partiel ?",
+        "response": "Les horaires sont définis dans le contrat, avec flexibilité possible."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en alternance ?",
+        "response": "Selon le contrat d'alternance et les besoins de formation."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en période d'essai ?",
+        "response": "Les mêmes politiques s'appliquent, avec suivi rapproché."
+      },
+      {
+        "question": "Comment sont gérées les heures de travail pour les employés en mission ?",
+        "response": "Selon les besoins de la mission et les politiques locales."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en fin de carrière ?",
+        "response": "Des aménagements peuvent être proposés pour faciliter la transition."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en période de transition vers la retraite ?",
+        "response": "Des aménagements peuvent être proposés pour faciliter la transition."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les employés en situation de handicap ?",
+        "response": "Des aménagements sont possibles pour répondre aux besoins spécifiques."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en période de maternité ?",
+        "response": "Des aménagements sont possibles pour répondre aux besoins spécifiques."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les employés en formation ?",
+        "response": "Les heures de formation sont considérées comme du temps de travail."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en formation continue ?",
+        "response": "Les heures de formation sont intégrées dans le planning de travail."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les employés en formation à distance ?",
+        "response": "Les heures de formation à distance sont considérées comme du temps de travail."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les employés en formation en présentiel ?",
+        "response": "Les heures de formation en présentiel sont considérées comme du temps de travail."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les employés en formation à l'étranger ?",
+        "response": "Les heures de formation à l'étranger sont considérées comme du temps de travail."
+      },
+      {
+        "question": "Quelles sont les politiques sur les heures de travail pour les employés en formation en ligne ?",
+        "response": "Les heures de formation en ligne sont considérées comme du temps de travail."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en situation de crise ?",
+        "response": "Des aménagements temporaires peuvent être mis en place."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en période de transition professionnelle ?",
+        "response": "Des aménagements peuvent être proposés pour faciliter la transition."
+      },
+      {
+        "question": "Y a-t-il des politiques sur les heures de travail pour les employés en période de transition vers un nouveau poste ?",
+        "response": "Des aménagements peuvent être proposés pour faciliter la transition."
+      },
+      {
+        "question": "Puis-je demander un espace de travail partagé ?",
+        "response": "Oui, selon disponibilité et avec accord."
+      },
+      {
+        "question": "Quelles sont les politiques sur les déplacements en télétravail ?",
+        "response": "Les déplacements professionnels sont possibles, avec approbation."
+      }
+    ],
+    "procedures_internes_rh": [
+      {
+        "question": "Comment demander un certificat de travail ?",
+        "response": "Via le portail employé, en sélectionnant le document requis."
+      },
+      {
+        "question": "Comment signaler un problème ?",
+        "response": "Parlez à votre manager, aux RH ou utilisez la ligne d’assistance confidentielle."
+      },
+      {
+        "question": "À quelle fréquence ont lieu les entretiens de performance ?",
+        "response": "Annuellement, avec des revues intermédiaires possibles."
+      },
+      {
+        "question": "Comment fonctionne une promotion ?",
+        "response": "Basée sur performance et opportunités, via recommandation ou candidature interne."
+      },
+      {
+        "question": "Comment mettre à jour mes informations personnelles ?",
+        "response": "Via le portail employé."
+      },
+      {
+        "question": "Puis-je consulter mon dossier personnel ?",
+        "response": "Oui, sur demande aux RH."
+      },
+      {
+        "question": "Comment demander une formation ?",
+        "response": "Via le portail de formation, après accord avec votre manager."
+      },
+      {
+        "question": "Quelle est la politique sur les réseaux sociaux ?",
+        "response": "Évitez de partager des informations confidentielles ou de nuire à l’image de Nestlé."
+      },
+      {
+        "question": "Comment signaler discrimination ou harcèlement ?",
+        "response": "Via votre manager, les RH ou la ligne confidentielle."
+      },
+      {
+        "question": "Puis-je demander un congé sabbatique ?",
+        "response": "Oui, avec approbation et selon les besoins."
+      },
+      {
+        "question": "Comment demander un avancement de grade ?",
+        "response": "Discutez-en avec votre manager lors des entretiens de performance."
+      },
+      {
+        "question": "Quelle est la procédure pour changer de département ?",
+        "response": "Postulez via le portail de mobilité interne après accord de votre manager."
+      },
+      {
+        "question": "Comment fonctionne le système de gestion des performances ?",
+        "response": "Il inclut des objectifs annuels, des revues régulières et un entretien final."
+      },
+      {
+        "question": "Puis-je contester mon évaluation de performance ?",
+        "response": "Oui, en suivant la procédure de révision auprès des RH."
+      },
+      {
+        "question": "Comment sont gérées les plaintes anonymes ?",
+        "response": "Elles sont traitées confidentiellement par les RH ou la ligne d’assistance."
+      },
+      {
+        "question": "Quelle est la politique sur les cadeaux d’entreprise ?",
+        "response": "Les cadeaux doivent être déclarés et conformes aux directives éthiques."
+      },
+      {
+        "question": "Comment demander un congé pour formation ?",
+        "response": "Soumettez une demande via le portail RH avec justification."
+      },
+      {
+        "question": "Puis-je travailler à temps partiel ?",
+        "response": "Oui, avec accord de votre manager et des RH."
+      },
+      {
+        "question": "Comment sont gérées les absences non autorisées ?",
+        "response": "Elles peuvent entraîner des sanctions disciplinaires."
+      },
+      {
+        "question": "Quelle est la procédure pour un départ volontaire ?",
+        "response": "Informez votre manager et les RH, respectez le préavis contractuel."
+      },
+      {
+        "question": "Comment fonctionne le programme de reconnaissance des employés ?",
+        "response": "Il récompense les performances exceptionnelles via des nominations."
+      },
+      {
+        "question": "Puis-je demander une révision salariale ?",
+        "response": "Oui, lors des entretiens annuels ou avec justification."
+      },
+      {
+        "question": "Comment sont gérées les données personnelles des employés ?",
+        "response": "Elles sont protégées conformément aux lois sur la confidentialité."
+      },
+      {
+        "question": "Quelle est la politique sur les relations au travail ?",
+        "response": "Les relations doivent être déclarées si elles créent un conflit d’intérêts."
+      },
+      {
+        "question": "Comment demander un aménagement de poste ?",
+        "response": "Discutez-en avec votre manager et soumettez une demande aux RH."
+      },
+      {
+        "question": "Puis-je refuser une mutation ?",
+        "response": "Oui, mais cela peut affecter votre poste actuel."
+      },
+      {
+        "question": "Comment fonctionne le programme de mentorat ?",
+        "response": "Il met en relation mentors et mentorés pour le développement professionnel."
+      },
+      {
+        "question": "Quelle est la procédure pour signaler un accident de travail ?",
+        "response": "Informez immédiatement votre manager et remplissez le formulaire requis."
+      },
+      {
+        "question": "Comment sont gérées les demandes de télétravail ?",
+        "response": "Soumettez une demande via le portail RH après accord de votre manager."
+      },
+      {
+        "question": "Puis-je demander un congé parental ?",
+        "response": "Oui, selon les politiques locales et avec approbation."
+      },
+      {
+        "question": "Comment fonctionne le système de gestion des talents ?",
+        "response": "Il identifie et développe les hauts potentiels via des programmes spécifiques."
+      },
+      {
+        "question": "Quelle est la politique sur les activités politiques ?",
+        "response": "Les employés doivent éviter d’impliquer Nestlé dans leurs activités politiques."
+      },
+      {
+        "question": "Comment demander une lettre de recommandation ?",
+        "response": "Demandez à votre manager ou aux RH avant votre départ."
+      },
+      {
+        "question": "Puis-je consulter les politiques RH internes ?",
+        "response": "Oui, elles sont disponibles sur l’intranet."
+      },
+      {
+        "question": "Comment sont gérées les demandes de formation externe ?",
+        "response": "Soumettez une demande via le portail de formation avec justification."
+      },
+      {
+        "question": "Quelle est la procédure pour une réclamation salariale ?",
+        "response": "Contactez le service paie via le portail RH avec les détails."
+      },
+      {
+        "question": "Comment fonctionne le programme de bien-être au travail ?",
+        "response": "Il propose des initiatives pour la santé mentale et physique."
+      },
+      {
+        "question": "Puis-je demander un changement de manager ?",
+        "response": "En cas de conflit grave, discutez-en avec les RH."
+      },
+      {
+        "question": "Comment sont gérées les demandes de congés sans solde ?",
+        "response": "Soumettez une demande via le portail RH avec justification."
+      },
+      {
+        "question": "Quelle est la politique sur les activités de volontariat ?",
+        "response": "Nestlé encourage le volontariat et peut offrir des congés spécifiques."
+      },
+      {
+        "question": "Comment fonctionne le système de gestion des carrières ?",
+        "response": "Il aide les employés à planifier leur évolution via des outils et des entretiens."
+      },
+      {
+        "question": "Puis-je demander un bilan de compétences ?",
+        "response": "Oui, via les RH pour évaluer vos compétences et aspirations."
+      },
+      {
+        "question": "Comment sont gérées les plaintes pour discrimination ?",
+        "response": "Elles sont traitées sérieusement et confidentiellement par les RH."
+      },
+      {
+        "question": "Quelle est la procédure pour un départ en retraite ?",
+        "response": "Informez votre manager et les RH six mois à l’avance."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion du stress ?",
+        "response": "Il propose des ateliers et des ressources pour gérer le stress."
+      },
+      {
+        "question": "Puis-je demander un congé pour création d’entreprise ?",
+        "response": "Oui, selon les politiques locales et avec approbation."
+      },
+      {
+        "question": "Comment sont gérées les demandes de mutation internationale ?",
+        "response": "Via le portail de mobilité internationale, avec accord des RH."
+      },
+      {
+        "question": "Quelle est la politique sur les activités syndicales ?",
+        "response": "Nestlé respecte les droits syndicaux conformément à la loi."
+      },
+      {
+        "question": "Comment demander un congé pour obligations familiales ?",
+        "response": "Soumettez une demande via le portail RH avec justification."
+      },
+      {
+        "question": "Puis-je consulter mon historique de formation ?",
+        "response": "Oui, via le portail de formation."
+      },
+      {
+        "question": "Comment fonctionne le programme de reconnaissance des pairs ?",
+        "response": "Les employés peuvent nommer leurs collègues pour des récompenses."
+      },
+      {
+        "question": "Quelle est la procédure pour signaler un conflit d’intérêts ?",
+        "response": "Déclarez-le aux RH via le portail ou en personne."
+      },
+      {
+        "question": "Comment sont gérées les demandes de congé pour formation continue ?",
+        "response": "Soumettez une demande via le portail RH avec détails de la formation."
+      },
+      {
+        "question": "Puis-je demander un congé pour raisons personnelles ?",
+        "response": "Oui, avec justification et approbation de votre manager."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion des talents émergents ?",
+        "response": "Il identifie et développe les talents via des formations et des missions."
+      },
+      {
+        "question": "Quelle est la politique sur les activités de lobbying ?",
+        "response": "Les employés doivent éviter d’impliquer Nestlé dans des activités de lobbying."
+      },
+      {
+        "question": "Comment demander un congé pour obligations civiques ?",
+        "response": "Soumettez une demande via le portail RH avec justification."
+      },
+      {
+        "question": "Puis-je consulter les politiques de sécurité au travail ?",
+        "response": "Oui, elles sont disponibles sur l’intranet."
+      },
+      {
+        "question": "Comment sont gérées les demandes de formation en ligne ?",
+        "response": "Accédez au portail de formation et sélectionnez les modules souhaités."
+      },
+      {
+        "question": "Quelle est la procédure pour une réclamation de harcèlement ?",
+        "response": "Signalez-le immédiatement aux RH ou via la ligne confidentielle."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion des compétences ?",
+        "response": "Il évalue et développe les compétences via des formations et des évaluations."
+      },
+      {
+        "question": "Puis-je demander un congé pour obligations religieuses ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Comment sont gérées les demandes de mutation nationale ?",
+        "response": "Via le portail de mobilité interne, avec accord de votre manager."
+      },
+      {
+        "question": "Quelle est la politique sur les activités de bénévolat ?",
+        "response": "Nestlé encourage le bénévolat et peut offrir des congés spécifiques."
+      },
+      {
+        "question": "Comment demander un congé pour obligations militaires ?",
+        "response": "Soumettez une demande via le portail RH avec documents officiels."
+      },
+      {
+        "question": "Puis-je consulter mon dossier disciplinaire ?",
+        "response": "Oui, sur demande aux RH."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion des talents seniors ?",
+        "response": "Il propose des formations et des missions adaptées aux seniors."
+      },
+      {
+        "question": "Quelle est la procédure pour signaler une violation éthique ?",
+        "response": "Utilisez la ligne d’assistance confidentielle ou contactez les RH."
+      },
+      {
+        "question": "Comment sont gérées les demandes de congé pour formation professionnelle ?",
+        "response": "Soumettez une demande via le portail RH avec détails de la formation."
+      },
+      {
+        "question": "Puis-je demander un congé pour obligations de jury ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion des talents juniors ?",
+        "response": "Il propose des formations et des missions pour les jeunes talents."
+      },
+      {
+        "question": "Quelle est la politique sur les activités de consulting externe ?",
+        "response": "Les employés doivent déclarer toute activité de consulting externe."
+      },
+      {
+        "question": "Comment demander un congé pour obligations de garde ?",
+        "response": "Soumettez une demande via le portail RH avec justification."
+      },
+      {
+        "question": "Puis-je consulter les politiques de gestion des risques ?",
+        "response": "Oui, elles sont disponibles sur l’intranet."
+      },
+      {
+        "question": "Comment sont gérées les demandes de formation en présentiel ?",
+        "response": "Soumettez une demande via le portail de formation avec accord de votre manager."
+      },
+      {
+        "question": "Quelle est la procédure pour une réclamation de discrimination ?",
+        "response": "Signalez-le immédiatement aux RH ou via la ligne confidentielle."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion des talents transversaux ?",
+        "response": "Il propose des formations et des missions pour développer des compétences transversales."
+      },
+      {
+        "question": "Puis-je demander un congé pour obligations de formation ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Comment sont gérées les demandes de mutation inter-équipes ?",
+        "response": "Via le portail de mobilité interne, avec accord de votre manager."
+      },
+      {
+        "question": "Quelle est la politique sur les activités de formation externe ?",
+        "response": "Les employés doivent déclarer toute formation externe pertinente."
+      },
+      {
+        "question": "Comment demander un congé pour obligations de formation continue ?",
+        "response": "Soumettez une demande via le portail RH avec détails de la formation."
+      },
+      {
+        "question": "Puis-je consulter les politiques de gestion des talents ?",
+        "response": "Oui, elles sont disponibles sur l’intranet."
+      },
+      {
+        "question": "Comment sont gérées les demandes de formation en ligne externe ?",
+        "response": "Soumettez une demande via le portail de formation avec justification."
+      },
+      {
+        "question": "Quelle est la procédure pour une réclamation de harcèlement moral ?",
+        "response": "Signalez-le immédiatement aux RH ou via la ligne confidentielle."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion des talents internationaux ?",
+        "response": "Il propose des formations et des missions pour développer des compétences internationales."
+      },
+      {
+        "question": "Puis-je demander un congé pour obligations de formation professionnelle ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Comment sont gérées les demandes de mutation inter-filiales ?",
+        "response": "Via le portail de mobilité interne, avec accord de votre manager."
+      },
+      {
+        "question": "Quelle est la politique sur les activités de formation interne ?",
+        "response": "Les employés doivent participer aux formations internes obligatoires."
+      },
+      {
+        "question": "Comment demander un congé pour obligations de formation en ligne ?",
+        "response": "Soumettez une demande via le portail RH avec détails de la formation."
+      },
+      {
+        "question": "Puis-je consulter les politiques de gestion des performances ?",
+        "response": "Oui, elles sont disponibles sur l’intranet."
+      },
+      {
+        "question": "Comment sont gérées les demandes de formation en présentiel externe ?",
+        "response": "Soumettez une demande via le portail de formation avec justification."
+      },
+      {
+        "question": "Quelle est la procédure pour une réclamation de discrimination raciale ?",
+        "response": "Signalez-le immédiatement aux RH ou via la ligne confidentielle."
+      },
+      {
+        "question": "Comment fonctionne le programme de gestion des talents locaux ?",
+        "response": "Il propose des formations et des missions pour développer des compétences locales."
+      },
+      {
+        "question": "Puis-je demander un congé pour obligations de formation en présentiel ?",
+        "response": "Oui, avec justification et approbation."
+      },
+      {
+        "question": "Comment sont gérées les demandes de mutation inter-équipes locales ?",
+        "response": "Via le portail de mobilité interne, avec accord de votre manager."
+      },
+      {
+        "question": "Quelle est la politique sur les activités de formation en ligne ?",
+        "response": "Les employés peuvent suivre des formations en ligne via le portail."
+      },
+      {
+        "question": "Comment demander un congé pour obligations de formation en ligne externe ?",
+        "response": "Soumettez une demande via le portail RH avec détails de la formation."
+      },
+      {
+        "question": "Puis-je consulter les politiques de gestion des talents locaux ?",
+        "response": "Oui, elles sont disponibles sur l’intranet."
+      },
+      {
+        "question": "Comment sont gérées les demandes de formation en présentiel interne ?",
+        "response": "Soumettez une demande via le portail de formation avec accord de votre manager."
+      }
+    ],
+    "depart_de_l_entreprise": [
+      {
+        "question": "Quel est le préavis pour une démission ?",
+        "response": "De un à trois mois pour un CDI, selon le contrat et l'ancienneté."
+      },
+      {
+        "question": "Comment demander la retraite ?",
+        "response": "Informez votre manager et les RH six mois à l'avance par écrit."
+      },
+      {
+        "question": "Qu'est-ce qu'une rupture conventionnelle ?",
+        "response": "Un accord mutuel pour mettre fin au contrat, avec conditions négociées et indemnités spécifiques."
+      },
+      {
+        "question": "Comment est calculé le solde de tout compte ?",
+        "response": "Il inclut salaire, congés non pris, indemnités de licenciement si applicable, et prime de précarité pour CDD."
+      },
+      {
+        "question": "Que deviennent mes avantages après mon départ ?",
+        "response": "La plupart cessent immédiatement. Certains (comme l'assurance santé) peuvent être prolongés temporairement via conversion en contrat individuel."
+      },
+      {
+        "question": "Puis-je revenir chez Nestlé après un départ ?",
+        "response": "Oui, vous pouvez postuler à nouveau après 6 mois pour un même poste, immédiatement pour un poste différent."
+      },
+      {
+        "question": "Comment obtenir une lettre de recommandation ?",
+        "response": "Demandez à votre manager avant votre départ ou via le portail RH après votre départ."
+      },
+      {
+        "question": "Quelles obligations de confidentialité après départ ?",
+        "response": "Vous devez protéger les secrets commerciaux, formules, et informations stratégiques de Nestlé indéfiniment."
+      },
+      {
+        "question": "Comment transmettre mes responsabilités ?",
+        "response": "Collaborez avec votre manager sur un plan de transition de 2 à 4 semaines incluant documentation et formation du remplaçant."
+      },
+      {
+        "question": "Puis-je garder mon email professionnel ?",
+        "response": "Non, il est désactivé le jour de votre départ. Redirigez vos contacts vers votre email personnel avant de partir."
+      },
+      {
+        "question": "Comment calculer mon indemnité de départ à la retraite ?",
+        "response": "Nestlé verse une indemnité conventionnelle équivalente à 1 mois de salaire par tranche de 10 ans d'ancienneté."
+      },
+      {
+        "question": "Puis-je utiliser mes congés pendant le préavis ?",
+        "response": "Oui, avec accord de votre manager. Les congés prolongent d'autant la date effective de départ."
+      },
+      {
+        "question": "Comment contester mon solde de tout compte ?",
+        "response": "Envoyez un courrier recommandé au service paie sous 3 mois avec justificatifs. Un médiateur RH sera désigné."
+      },
+      {
+        "question": "Quand recevrai-je mon certificat de travail ?",
+        "response": "Sous 7 jours après votre dernier jour de travail, par courrier ou portail RH."
+      },
+      {
+        "question": "Dois-je rembourser ma prime de bienvenue ?",
+        "response": "Oui si vous partez avant 2 ans, au prorata temporis. Déduction faite sur le solde de tout compte."
+      },
+      {
+        "question": "Comment fonctionne la clause de non-concurrence ?",
+        "response": "Elle s'applique pendant 12 mois maximum pour des postes stratégiques, avec compensation de 30% de votre salaire brut."
+      },
+      {
+        "question": "Puis-je refuser une mutation entraînant mon départ ?",
+        "response": "Oui, mais cela peut être considéré comme une démission si vous refusez un poste équivalent dans un rayon de 50km."
+      },
+      {
+        "question": "Que faire de mon compte épargne-temps ?",
+        "response": "Les jours accumulés sont payés ou reportés sous 3 ans si vous revenez chez Nestlé."
+      },
+      {
+        "question": "Comment quitter Nestlé pour créer mon entreprise ?",
+        "response": "Demandez une rupture conventionnelle ou démissionnez. Un accompagnement externe peut être proposé pour les cadres."
+      },
+      {
+        "question": "Puis-je partir avant la fin de ma période d'essai ?",
+        "response": "Oui, avec 48h de préavis si < 8 jours de présence, 2 semaines au-delà."
+      },
+      {
+        "question": "Comment récupérer mes contributions PERCO ?",
+        "response": "Transfert vers un autre PER ou déblocage sous 6 mois si chômage ou création d'entreprise."
+      },
+      {
+        "question": "Les stock-options sont-elles conservées ?",
+        "response": "Seules les options acquises avant départ sont conservables. Exercice sous 3 mois après départ."
+      },
+      {
+        "question": "Dois-je rendre mon ordinateur portable ?",
+        "response": "Oui, avant votre dernier jour. Un audit informatique sera effectué."
+      },
+      {
+        "question": "Comment gérer mon départ en cas de burn-out ?",
+        "response": "Contactez le médecin du travail et les RH pour un départ médical ou une rupture conventionnelle adaptée."
+      },
+      {
+        "question": "Puis-je négocier une prime de départ ?",
+        "response": "Possible dans le cadre d'une rupture conventionnelle ou d'un plan de départ volontaire."
+      },
+      {
+        "question": "Quand cesse ma couverture santé ?",
+        "response": "Fin du mois suivant votre départ. Droit à la portabilité sous 30 jours."
+      },
+      {
+        "question": "Comment calculer mes congés payés non pris ?",
+        "response": "2.5 jours/mois travaillés. Paiement au 1/10e du salaire brut annuel."
+      },
+      {
+        "question": "Puis-je transférer mon compte formation (CPF) ?",
+        "response": "Oui, il reste actif. Vos droits acquis chez Nestlé sont conservés."
+      },
+      {
+        "question": "Comment signaler un litige sur mon départ ?",
+        "response": "Via le médiateur RH interne ou la plateforme de signalement éthique."
+      },
+      {
+        "question": "Dois-je participer à un entretien de départ ?",
+        "response": "Obligatoire pour les cadres, facultatif pour les autres. Durée moyenne : 1 heure."
+      },
+      {
+        "question": "Que deviennent mes actions Nestlé ?",
+        "response": "Vous les conservez. Le plan d'achat d'actions n'est plus alimenté après départ."
+      },
+      {
+        "question": "Comment quitter Nestlé pour une reconversion ?",
+        "response": "Démission ou rupture conventionnelle. Droit au CPF pour financer votre formation."
+      },
+      {
+        "question": "Puis-je être licencié pendant un arrêt maladie ?",
+        "response": "Non, sauf pour faute lourde ou inaptitude médicale définitive."
+      },
+      {
+        "question": "Comment calculer mon indemnité de licenciement économique ?",
+        "response": "1/4 de mois par année d'ancienneté + 1/5 au-delà de 10 ans. Plafond : 15 mois de salaire."
+      },
+      {
+        "question": "Dois-je rendre mon uniforme ou équipement ?",
+        "response": "Oui, sous 7 jours après départ. À défaut, valeur déduite de votre solde."
+      },
+      {
+        "question": "Comment gérer mon départ à l'international ?",
+        "response": "Coordination avec les RH locales et globales. Remboursement des frais de relocation si applicable."
+      },
+      {
+        "question": "Puis-je conserver mes réductions employés ?",
+        "response": "Non, elles cessent immédiatement. Dernière commande possible avant votre dernier jour."
+      },
+      {
+        "question": "Comment contester une clause de non-sollicitation ?",
+        "response": "Devant les Prud'hommes dans les 12 mois. Nestlé doit prouver son caractère nécessaire et proportionné."
+      },
+      {
+        "question": "Que faire de mon téléphone professionnel ?",
+        "response": "Le rendre ou le racheter à sa valeur résiduelle si acheté par Nestlé depuis plus de 2 ans."
+      },
+      {
+        "question": "Comment partir en retraite anticipée ?",
+        "response": "À partir de 60 ans avec accord de Nestlé. Conditions : 20 ans d'ancienneté dont 5 chez Nestlé."
+      },
+      {
+        "question": "Puis-je refuser un licenciement pour inaptitude ?",
+        "response": "Non, après avis du médecin du travail et recherche interne de reclassement infructueuse."
+      },
+      {
+        "question": "Comment récupérer mes fichiers personnels ?",
+        "response": "Avant votre départ, transférez-les via clé USB ou cloud autorisé. Audit préalable interdit la copie de données professionnelles."
+      },
+      {
+        "question": "Dois-je rembourser mes formations récentes ?",
+        "response": "Oui si formation coûteuse (> 5k€) et départ dans les 12 mois suivant la formation."
+      },
+      {
+        "question": "Comment quitter Nestlé après un congé parental ?",
+        "response": "Mêmes procédures que pour tout départ. Préavis calculé à partir de votre retour effectif."
+      },
+      {
+        "question": "Puis-je travailler pour un concurrent immédiatement ?",
+        "response": "Dépend de votre clause de non-concurrence. À défaut, liberté immédiate sauf pour postes stratégiques."
+      },
+      {
+        "question": "Comment calculer mon préavis en cas de démission pendant un arrêt maladie ?",
+        "response": "Le préavis court à partir de votre reprise effective du travail."
+      },
+      {
+        "question": "Que deviennent mes droits à la retraite complémentaire ?",
+        "response": "Ils sont bloqués jusqu'à votre retraite. Possibilité de transfert vers un autre régime."
+      },
+      {
+        "question": "Comment demander une attestation Pôle Emploi ?",
+        "response": "Automatiquement envoyée sous 8 jours. Sinon demande via portail RH ou service paie."
+      },
+      {
+        "question": "Puis-je vendre mes actions avant mon départ ?",
+        "response": "Oui, selon le calendrier du plan d'actionnariat. Vérifiez les périodes autorisées."
+      },
+      {
+        "question": "Comment gérer mon départ en cas de harcèlement ?",
+        "response": "Signalez-le aux RH ou à la ligne éthique. Départ possible avec rupture conventionnelle spécifique."
+      },
+      {
+        "question": "Dois-je participer à la passation ?",
+        "response": "Oui, c'est obligatoire. Durée déterminée avec votre manager, incluant documentation et formation du successeur."
+      },
+      {
+        "question": "Comment calculer mon indemnité de fin de CDD ?",
+        "response": "10% du salaire brut total perçu pendant le contrat + congés payés non pris."
+      },
+      {
+        "question": "Puis-je annuler ma démission ?",
+        "response": "Oui avec accord écrit de Nestlé avant la fin du préavis. Très exceptionnel."
+      },
+      {
+        "question": "Comment partir en préretraite ?",
+        "response": "Disponible à partir de 58 ans sous conditions d'ancienneté et accord de Nestlé dans le cadre de plans spécifiques."
+      },
+      {
+        "question": "Que faire si je ne reçois pas mon solde de tout compte ?",
+        "response": "Relance écrite au service paie. Si sans réponse sous 15 jours, saisie des Prud'hommes."
+      },
+      {
+        "question": "Comment conserver mes contacts professionnels ?",
+        "response": "Échange de coordonnées personnelles autorisé, sauf pour clients exclusifs de Nestlé pendant 2 ans."
+      },
+      {
+        "question": "Puis-je être licencié pour insuffisance professionnelle ?",
+        "response": "Oui après procédure d'évaluation formalisée (PIP) sur 3 à 6 mois prouvant l'absence d'amélioration."
+      },
+      {
+        "question": "Comment gérer mon départ en télétravail ?",
+        "response": "Retour du matériel par colis recommandé. Entretien de départ en visioconférence."
+      },
+      {
+        "question": "Dois-je rendre mon badge d'accès ?",
+        "response": "Oui, le dernier jour. À défaut, pénalité de 50€ déduite de votre solde."
+      },
+      {
+        "question": "Comment calculer mon indemnité de licenciement pour faute ?",
+        "response": "Aucune indemnité pour faute grave ou lourde. Pour faute simple : indemnité légale réduite de moitié."
+      },
+      {
+        "question": "Puis-je refuser une rupture conventionnelle ?",
+        "response": "Oui, c'est un accord mutuel. Nestlé ne peut l'imposer."
+      },
+      {
+        "question": "Comment partir après un accident du travail ?",
+        "response": "Départ médical possible si incapacité permanente. Indemnisation spécifique par la Sécurité Sociale et Nestlé."
+      },
+      {
+        "question": "Que deviennent mes dons via le mécénat employé ?",
+        "response": "Ils cessent automatiquement. Aucun remboursement possible."
+      },
+      {
+        "question": "Comment demander une copie de mon contrat ?",
+        "response": "Via le portail RH ou demande écrite aux archives. Délai : 15 jours maximum."
+      },
+      {
+        "question": "Puis-je travailler en freelance pour Nestlé après mon départ ?",
+        "response": "Oui après 6 mois, sous réserve de validation juridique pour conflit d'intérêts."
+      },
+      {
+        "question": "Comment calculer mon préavis en cas de démission pendant un congé sabbatique ?",
+        "response": "Le préavis court à partir de la fin du congé sabbatique."
+      },
+      {
+        "question": "Dois-je rembourser mes frais professionnels ?",
+        "response": "Non si justifiés et approuvés avant départ. Sinon, déduction sur dernier salaire."
+      },
+      {
+        "question": "Comment quitter Nestlé pour raisons personnelles ?",
+        "response": "Démission simple ou rupture conventionnelle. Aucune justification exigée."
+      },
+      {
+        "question": "Puis-je bénéficier d'un outplacement ?",
+        "response": "Oui pour les cadres et dans le cadre de ruptures conventionnelles ou licenciements économiques."
+      },
+      {
+        "question": "Comment gérer mon départ en cas de conflit avec mon manager ?",
+        "response": "Saisissez les RH ou le médiateur interne pour un départ négocié et sécurisé."
+      },
+      {
+        "question": "Que deviennent mes options de télétravail après annonce de départ ?",
+        "response": "Vous conservez vos droits jusqu'au dernier jour. Aucun changement imposé."
+      },
+      {
+        "question": "Comment calculer mon indemnité de départ volontaire ?",
+        "response": "Variable selon les plans. Généralement 6 à 18 mois de salaire selon ancienneté et métier."
+      },
+      {
+        "question": "Puis-je garder mon abonnement de transport ?",
+        "response": "Non, il est résilié automatiquement. Passez à un abonnement personnel avant votre départ."
+      },
+      {
+        "question": "Comment signaler une erreur dans mon certificat de travail ?",
+        "response": "Courrier recommandé aux RH avec preuves. Correction obligatoire sous 15 jours."
+      },
+      {
+        "question": "Puis-je partir avant la fin de mon CDD ?",
+        "response": "Oui avec accord écrit de Nestlé. À défaut, indemnités compensatoires dues."
+      },
+      {
+        "question": "Comment gérer mon départ pour inaptitude temporaire ?",
+        "response": "Mise en invalidité ou rupture conventionnelle adaptée. Consultez le médecin du travail."
+      },
+      {
+        "question": "Que faire de mon vélo ou véhicule de fonction ?",
+        "response": "Rendu obligatoire avant dernier jour. Vérification technique préalable."
+      },
+      {
+        "question": "Comment calculer ma retraite de base après départ ?",
+        "response": "Via votre relevé carrière sur le site de l'Assurance Retraite. Nestlé transmet les données sous 3 mois."
+      },
+      {
+        "question": "Puis-je transférer mon PEE ?",
+        "response": "Oui vers un autre PEE ou PERCO sous 6 mois. Sinon, déblocage possible sous conditions."
+      },
+      {
+        "question": "Comment quitter Nestlé pour suivre mon conjoint à l'étranger ?",
+        "response": "Démission ou rupture conventionnelle avec indemnité de mobilité réduite si applicable."
+      },
+      {
+        "question": "Dois-je informer mes collègues de mon départ ?",
+        "response": "Non, mais recommandé. L'annonce officielle est faite par votre manager avec votre accord."
+      },
+      {
+        "question": "Comment gérer mon préavis en période de congés payés ?",
+        "response": "Les congés suspendent le préavis. La date effective de départ est reportée."
+      },
+      {
+        "question": "Puis-je être réembauché après un licenciement pour faute ?",
+        "response": "Possible après 3 ans pour faute simple, 5 ans pour faute grave. Soumis à approbation RH."
+      },
+      {
+        "question": "Que deviennent mes contributions syndicales ?",
+        "response": "Elles cessent automatiquement. Demandez le solde à votre syndicat."
+      },
+      {
+        "question": "Comment calculer mon indemnité de non-concurrence ?",
+        "response": "30% de votre salaire brut mensuel moyen des 12 derniers mois, versé mensuellement pendant la durée de la clause."
+      },
+      {
+        "question": "Puis-je refuser de former mon remplaçant ?",
+        "response": "Non, c'est une obligation contractuelle. Refus = faute professionnelle."
+      },
+      {
+        "question": "Comment partir en conservant une bonne relation ?",
+        "response": "Respectez votre préavis, documentez votre poste, participez à la passation, et faites un feedback constructif."
+      },
+      {
+        "question": "Que faire de mes outils de travail personnels ?",
+        "response": "Les retirer avant départ. Toute donnée professionnelle doit être supprimée."
+      },
+      {
+        "question": "Comment gérer un départ suite à une restructuration ?",
+        "response": "Priorité au reclassement interne. À défaut, départ avec plan de séparation incluant outplacement et indemnités majorées."
+      },
+      {
+        "question": "Puis-je utiliser le nom de Nestlé dans mon CV ?",
+        "response": "Oui, mais pas pour suggérer un partenariat actuel. Mentionnez les dates précises d'emploi."
+      },
+      {
+        "question": "Comment calculer mes droits au chômage ?",
+        "response": "Selon votre salaire moyen des 24 derniers mois et votre ancienneté. Simulation disponible sur Pôle Emploi."
+      },
+      {
+        "question": "Dois-je rembourser mes avantages en nature ?",
+        "response": "Non sauf si détérioration anormale du matériel ou logement de fonction non restitué en bon état."
+      },
+      {
+        "question": "Comment quitter Nestlé après un échec de promotion ?",
+        "response": "Discutez avec les RH des possibilités de mobilité interne avant de décider votre départ."
+      },
+      {
+        "question": "Puis-je négocier une référence écrite ?",
+        "response": "Oui, intégrez-la à votre accord de rupture conventionnelle."
+      },
+      {
+        "question": "Comment gérer mon départ pour cause de maladie longue durée ?",
+        "response": "Rupture conventionnelle médicale ou licenciement pour inaptitude avec indemnités spécifiques."
+      },
+      {
+        "question": "Que deviennent mes données sur les plateformes internes ?",
+        "response": "Elles sont archivées 5 ans puis supprimées, sauf obligations légales."
+      },
+      {
+        "question": "Comment calculer mon indemnité de licenciement en cas de fusion ?",
+        "response": "Mêmes règles que pour un licenciement économique. Ancienneté calculée depuis votre entrée dans le groupe."
+      },
+      {
+        "question": "Puis-je assister à des événements Nestlé après mon départ ?",
+        "response": "Invitation possible pour les retraités ou événements publics. Renseignez-vous auprès des RH."
+      },
+      {
+        "question": "Comment rédiger ma lettre de démission ?",
+        "response": "Lettre recommandée avec AR mentionnant votre poste, date de départ, et formule de politesse. Modèle disponible sur le portail RH."
+      },
+      {
+        "question": "Dois-je informer mes clients de mon départ ?",
+        "response": "Oui en coordination avec votre manager. Le message type est fourni par les RH."
+      },
+      {
+        "question": "Comment gérer mon départ pour un poste chez un concurrent ?",
+        "response": "Vérifiez votre clause de non-concurrence. Si applicable, négociez une exemption ou attendez la fin de la période."
+      },
+      {
+        "question": "Puis-je conserver mes certifications obtenues chez Nestlé ?",
+        "response": "Oui, elles sont personnelles et permanentes. Mentionnez-les dans votre CV."
+      },
+      {
+        "question": "Comment calculer mon préavis en cas de temps partiel ?",
+        "response": "Même durée qu'un temps plein, mais calculé en jours ouvrables proportionnels à votre temps de travail."
+      },
+      {
+        "question": "Que faire en cas de harcèlement post-départ ?",
+        "response": "Signalez-le à l'inspection du travail et consultez un avocat. Nestlé a une politique de protection des anciens employés."
+      },
+      {
+        "question": "Comment quitter Nestlé avec un projet de volontariat ?",
+        "response": "Démission ou rupture conventionnelle. Possibilité de congé solidaire non rémunéré si projet inférieur à 6 mois."
+      },
+      {
+        "question": "Puis-je laisser un message d'au revoir ?",
+        "response": "Oui, via les canaux internes avec accord de votre manager. Évitez les critiques."
+      }
+    ],
+    "integration_et_vie_en_entreprise": [
+      {
+        "question": "Comment se déroule l’intégration ?",
+        "response": "Orientation, formations et rencontres avec votre équipe."
+      },
+      {
+        "question": "Comment Nestlé promeut-elle la diversité ?",
+        "response": "Via des programmes, groupes de ressources et politiques équitables."
+      },
+      {
+        "question": "Quelle est la culture d’entreprise ?",
+        "response": "Axée sur l’intégrité, le respect et l’excellence."
+      },
+      {
+        "question": "Y a-t-il des groupes de ressources pour employés ?",
+        "response": "Oui, pour femmes, minorités, LGBTQ+, etc."
+      },
+      {
+        "question": "Comment Nestlé assure-t-elle l’éthique ?",
+        "response": "Par un code de conduite et des formations régulières."
+      },
+      {
+        "question": "Quelles opportunités de volontariat ?",
+        "response": "Programmes organisés ou projets proposés par les employés."
+      },
+      {
+        "question": "Comment m’impliquer dans la durabilité ?",
+        "response": "Via des groupes internes ou la plateforme d’innovation."
+      },
+      {
+        "question": "Nestlé organise-t-elle des événements sociaux ?",
+        "response": "Oui, pour renforcer la cohésion d’équipe."
+      },
+      {
+        "question": "Comment donner mon feedback ?",
+        "response": "Via enquêtes, boîtes à idées ou discussions directes."
+      },
+      {
+        "question": "Quelle politique de bien-être au travail ?",
+        "response": "Programmes de santé mentale et environnement sain."
+      },
+      {
+        "question": "Quels sont les premiers pas lors de mon arrivée chez Nestlé ?",
+        "response": "Vous serez accueilli par votre manager et participerez à une session d’orientation."
+      },
+      {
+        "question": "Comment fonctionne le programme de parrainage pour les nouveaux employés ?",
+        "response": "Chaque nouvel employé est assigné à un parrain pour l’aider à s’intégrer."
+      },
+      {
+        "question": "Quelles formations sont obligatoires lors de l’intégration ?",
+        "response": "Formations sur la sécurité, le code de conduite et les outils informatiques."
+      },
+      {
+        "question": "Comment puis-je rencontrer mes collègues ?",
+        "response": "Votre manager organisera des rencontres et des événements d’équipe."
+      },
+      {
+        "question": "Quelles initiatives pour la diversité des genres ?",
+        "response": "Programmes de mentorat et objectifs de représentation féminine."
+      },
+      {
+        "question": "Comment Nestlé soutient-elle les minorités ?",
+        "response": "Groupes de ressources et politiques anti-discrimination."
+      },
+      {
+        "question": "Quels sont les objectifs de diversité de Nestlé ?",
+        "response": "Représentation accrue des femmes et minorités."
+      },
+      {
+        "question": "Comment contribuer à la diversité chez Nestlé ?",
+        "response": "Rejoindre un groupe de ressources et promouvoir l’inclusion."
+      },
+      {
+        "question": "Quelles sont les valeurs de Nestlé ?",
+        "response": "Intégrité, respect, responsabilité et excellence."
+      },
+      {
+        "question": "Comment la culture influence-t-elle le travail ?",
+        "response": "Encourage la collaboration et l’innovation."
+      },
+      {
+        "question": "Quels groupes de ressources sont disponibles ?",
+        "response": "Pour femmes, minorités, LGBTQ+, etc."
+      },
+      {
+        "question": "Comment rejoindre un groupe de ressources ?",
+        "response": "Inscrivez-vous via le portail employé."
+      },
+      {
+        "question": "Quels avantages à participer à un groupe de ressources ?",
+        "response": "Réseautage et développement professionnel."
+      },
+      {
+        "question": "Quel est le code de conduite de Nestlé ?",
+        "response": "Document détaillant les attentes éthiques."
+      },
+      {
+        "question": "Comment gérer les conflits d’intérêts ?",
+        "response": "Déclarer tout conflit potentiel aux RH."
+      },
+      {
+        "question": "Quelles politiques anti-corruption ?",
+        "response": "Formations et surveillance des transactions."
+      },
+      {
+        "question": "Comment signaler une violation éthique ?",
+        "response": "Via la ligne d’assistance confidentielle."
+      },
+      {
+        "question": "Quels programmes de volontariat sont disponibles ?",
+        "response": "Projets communautaires et initiatives caritatives."
+      },
+      {
+        "question": "Comment participer au volontariat ?",
+        "response": "Inscrivez-vous via le portail de volontariat."
+      },
+      {
+        "question": "Nestlé offre-t-elle des congés pour volontariat ?",
+        "response": "Oui, selon les politiques locales."
+      },
+      {
+        "question": "Comment le volontariat est-il reconnu ?",
+        "response": "Certificats et mentions dans les évaluations."
+      },
+      {
+        "question": "Quels engagements de durabilité ?",
+        "response": "Réduction des émissions et gestion des ressources."
+      },
+      {
+        "question": "Comment contribuer à la durabilité ?",
+        "response": "Participer aux initiatives internes."
+      },
+      {
+        "question": "Quelles actions pour réduire l’empreinte environnementale ?",
+        "response": "Recyclage et efficacité énergétique."
+      },
+      {
+        "question": "Comment impliquer les employés dans la durabilité ?",
+        "response": "Formations et groupes de travail."
+      },
+      {
+        "question": "Quels types d’événements sociaux sont organisés ?",
+        "response": "Fêtes, sorties et activités sportives."
+      },
+      {
+        "question": "Comment participer à l’organisation d’événements ?",
+        "response": "Rejoindre le comité d’événements."
+      },
+      {
+        "question": "Les événements sont-ils ouverts à tous ?",
+        "response": "Oui, selon les invitations."
+      },
+      {
+        "question": "Comment les événements contribuent-ils à la culture ?",
+        "response": "Renforcent la cohésion et le moral."
+      },
+      {
+        "question": "Quels canaux pour donner du feedback ?",
+        "response": "Enquêtes et discussions directes."
+      },
+      {
+        "question": "Comment mon feedback est-il pris en compte ?",
+        "response": "Analysé et utilisé pour des améliorations."
+      },
+      {
+        "question": "Puis-je donner du feedback anonymement ?",
+        "response": "Oui, via des enquêtes anonymes."
+      },
+      {
+        "question": "Comment Nestlé encourage-t-elle le feedback ?",
+        "response": "Culture ouverte et reconnaissance."
+      },
+      {
+        "question": "Quels programmes de bien-être sont disponibles ?",
+        "response": "Santé mentale et physique."
+      },
+      {
+        "question": "Comment accéder aux ressources de bien-être ?",
+        "response": "Via le portail employé."
+      },
+      {
+        "question": "Nestlé propose-t-elle du soutien psychologique ?",
+        "response": "Oui, via des services externes."
+      },
+      {
+        "question": "Comment promouvoir l’équilibre travail-vie personnelle ?",
+        "response": "Horaires flexibles et télétravail."
+      },
+      {
+        "question": "Quelle est la politique de communication interne ?",
+        "response": "Utilisation d’outils comme l’intranet et les newsletters."
+      },
+      {
+        "question": "Comment puis-je réseauter au sein de l’entreprise ?",
+        "response": "Participer à des événements et groupes internes."
+      },
+      {
+        "question": "Quels programmes de reconnaissance des employés ?",
+        "response": "Récompenses pour performances exceptionnelles."
+      },
+      {
+        "question": "Quelle est la politique de santé et sécurité ?",
+        "response": "Strictes normes de sécurité et formations régulières."
+      },
+      {
+        "question": "Quelles initiatives de responsabilité sociale ?",
+        "response": "Programmes communautaires et durables."
+      },
+      {
+        "question": "Comment fonctionne le mentorat chez Nestlé ?",
+        "response": "Programmes formels et informels disponibles."
+      },
+      {
+        "question": "Quelles opportunités de développement personnel ?",
+        "response": "Formations et ateliers variés."
+      },
+      {
+        "question": "Quelle est la politique de travail flexible ?",
+        "response": "Horaires adaptables avec approbation."
+      },
+      {
+        "question": "Comment sont gérées les performances ?",
+        "response": "Évaluations régulières et feedback continu."
+      },
+      {
+        "question": "Puis-je proposer des idées innovantes ?",
+        "response": "Oui, via la plateforme d’innovation."
+      },
+      {
+        "question": "Comment Nestlé soutient-elle les parents ?",
+        "response": "Congés parentaux et flexibilité."
+      },
+      {
+        "question": "Y a-t-il des programmes pour les jeunes talents ?",
+        "response": "Oui, comme les graduate programs."
+      },
+      {
+        "question": "Comment puis-je évoluer dans ma carrière ?",
+        "response": "Discutez de vos objectifs avec votre manager."
+      },
+      {
+        "question": "Quelle est la politique sur les réseaux sociaux ?",
+        "response": "Respectez la confidentialité et l’image de l’entreprise."
+      },
+      {
+        "question": "Comment signaler un problème de sécurité ?",
+        "response": "Informez votre manager ou le service sécurité."
+      },
+      {
+        "question": "Puis-je participer à des projets transversaux ?",
+        "response": "Oui, avec l’accord de votre manager."
+      },
+      {
+        "question": "Comment fonctionne le programme de reconnaissance ?",
+        "response": "Nominations et récompenses pour contributions exceptionnelles."
+      },
+      {
+        "question": "Quels sont les avantages sociaux chez Nestlé ?",
+        "response": "Assurance santé, retraite, et plus."
+      },
+      {
+        "question": "Comment puis-je m’impliquer dans la communauté ?",
+        "response": "Via des programmes de volontariat."
+      },
+      {
+        "question": "Quelle est la politique de télétravail ?",
+        "response": "Possible avec approbation."
+      },
+      {
+        "question": "Comment sont organisées les équipes ?",
+        "response": "Structures variées selon les départements."
+      },
+      {
+        "question": "Puis-je demander un mentor ?",
+        "response": "Oui, via le programme de mentorat."
+      },
+      {
+        "question": "Comment sont célébrées les réussites ?",
+        "response": "Événements et reconnaissances publiques."
+      },
+      {
+        "question": "Quelle est la politique sur les cadeaux d’entreprise ?",
+        "response": "Limites strictes pour éviter les conflits d’intérêts."
+      },
+      {
+        "question": "Comment puis-je donner mon avis sur les politiques ?",
+        "response": "Via des enquêtes ou discussions avec les RH."
+      },
+      {
+        "question": "Y a-t-il des opportunités de formation continue ?",
+        "response": "Oui, via le portail de formation."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle les crises ?",
+        "response": "Plans de continuité et communication claire."
+      },
+      {
+        "question": "Puis-je participer à des conférences ?",
+        "response": "Oui, avec approbation."
+      },
+      {
+        "question": "Comment sont prises les décisions chez Nestlé ?",
+        "response": "Processus collaboratif et basé sur les données."
+      },
+      {
+        "question": "Quelle est la politique sur les déplacements professionnels ?",
+        "response": "Remboursements selon les politiques internes."
+      },
+      {
+        "question": "Comment puis-je accéder aux ressources RH ?",
+        "response": "Via le portail employé."
+      },
+      {
+        "question": "Y a-t-il des programmes de santé au travail ?",
+        "response": "Oui, incluant des check-ups réguliers."
+      },
+      {
+        "question": "Comment Nestlé encourage-t-elle l’innovation ?",
+        "response": "Via des hackathons et des challenges."
+      },
+      {
+        "question": "Puis-je proposer des améliorations ?",
+        "response": "Oui, via la boîte à idées."
+      },
+      {
+        "question": "Quelle est la politique sur les congés ?",
+        "response": "Détails dans le guide des avantages."
+      },
+      {
+        "question": "Comment sont gérés les conflits au travail ?",
+        "response": "Médiation et soutien des RH."
+      },
+      {
+        "question": "Puis-je demander un changement de poste ?",
+        "response": "Oui, via le portail de mobilité."
+      },
+      {
+        "question": "Comment Nestlé soutient-elle les employés en difficulté ?",
+        "response": "Programmes d’assistance et soutien psychologique."
+      },
+      {
+        "question": "Y a-t-il des opportunités de travail à l’étranger ?",
+        "response": "Oui, via le programme de mobilité internationale."
+      },
+      {
+        "question": "Comment puis-je développer mes compétences ?",
+        "response": "Formations et mentorat disponibles."
+      },
+      {
+        "question": "Quelle est la politique sur les heures supplémentaires ?",
+        "response": "Payées ou compensées selon la loi."
+      },
+      {
+        "question": "Comment sont organisées les réunions d’équipe ?",
+        "response": "Régulières et structurées."
+      },
+      {
+        "question": "Puis-je participer à des projets de R&D ?",
+        "response": "Oui, selon votre rôle et compétences."
+      },
+      {
+        "question": "Comment Nestlé gère-t-elle la confidentialité ?",
+        "response": "Politiques strictes et formations."
+      },
+      {
+        "question": "Quelle est la politique sur les cadeaux aux clients ?",
+        "response": "Soumis à approbation."
+      },
+      {
+        "question": "Comment puis-je accéder aux formations en ligne ?",
+        "response": "Via le portail de formation."
+      },
+      {
+        "question": "Y a-t-il des programmes de reconnaissance des pairs ?",
+        "response": "Oui, pour encourager la collaboration."
+      },
+      {
+        "question": "Comment sont gérés les projets inter-équipes ?",
+        "response": "Coordination via des chefs de projet."
+      },
+      {
+        "question": "Puis-je demander un congé pour formation ?",
+        "response": "Oui, avec approbation."
+      },
+      {
+        "question": "Comment Nestlé assure-t-elle la sécurité des données ?",
+        "response": "Mesures techniques et formations."
+      },
+      {
+        "question": "Quelle est la politique sur les réseaux sociaux professionnels ?",
+        "response": "Encouragés pour le réseautage."
+      },
+      {
+        "question": "Comment puis-je participer à des initiatives de bien-être ?",
+        "response": "Inscrivez-vous via le portail."
+      }
+    ]
+  }
+}
