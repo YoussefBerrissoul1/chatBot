@@ -1,0 +1,23 @@
+{
+  "evaluation_date": "2024-01-15",
+  "dataset_test": {
+    "nombre_questions": 199,
+    "nombre_themes": 10
+  },
+  "classification_themes": {
+    "accuracy": 0.949748743718593,
+    "cv_score_moyen": 0.6787537688442211,
+    "cv_score_std": 0.07574176776026495
+  },
+  "qualite_reponses": {
+    "score_confiance_moyen": 1.0,
+    "taux_reponses_correctes": 1.0
+  },
+  "optimisation": {
+    "seuil_optimal": 0.1,
+    "seuil_actuel": 0.8500000000000002
+  },
+  "recommandations": [
+    "Performance satisfaisante - continuer le monitoring"
+  ]
+}

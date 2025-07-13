@@ -5,3 +5,4 @@ faiss-cpu
 # textblob
 # textblob.download_corpora
 # pour la corection 
+# pip install scikit-learn numpy matplotlib seaborna
